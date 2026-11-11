@@ -1,0 +1,1255 @@
+[master 20444a7] Auto-backup: 2026-04-17 19:42:15
+ 1 file changed, 19 insertions(+), 14 deletions(-)
+To https://github.com/1336-ops/dasbor-perkara.git
+   3d47d8a..20444a7  master -> master
+[2026-04-17 19:42] Push OK — 1 files
+[master ad67f77] Auto-backup: 2026-04-17 22:01:53
+ 3 files changed, 68 insertions(+), 1 deletion(-)
+ create mode 100644 central-room/data/git-push.log
+ create mode 100644 memory/2026-04-17.md
+To https://github.com/1336-ops/dasbor-perkara.git
+   20444a7..ad67f77  master -> master
+[2026-04-17 22:01] Push OK — 3 files
+[main 5d952f3] Auto-backup: 2026-04-25 22:02:40
+ 5 files changed, 1227 insertions(+)
+ create mode 100644 data/dashboard_screenshot.png
+ create mode 100644 memory/2026-04-25.md
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 scripts/get_dashboard_pdf.js
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/1336-ops/dasbor-perkara.git'
+[2026-04-25 22:02] Push FAILED
+[2026-04-25 22:02] No changes
+[main f74e50e] Auto-backup: 2026-04-26 22:02:32
+ 1 file changed, 19 insertions(+)
+ create mode 100644 memory/2026-04-26.md
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/1336-ops/dasbor-perkara.git'
+[2026-04-26 22:02] Push FAILED
+[2026-04-26 22:03] No changes
+[main efe580e] Auto-backup: 2026-04-26 22:07:00
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/1336-ops/dasbor-perkara.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/1336-ops/dasbor-perkara.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-04-26 22:07] Push FAILED
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[main 0957395] Auto-backup: 2026-04-26 22:08:58
+ 1 file changed, 3 insertions(+)
+To https://github.com/1336-ops/dasbor-perkara.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/1336-ops/dasbor-perkara.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-04-26 22:08] Push FAILED
+Saved working directory and index state WIP on main: 0957395 Auto-backup: 2026-04-26 22:08:58
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../praisonai-integration (untracked content)
+	modified:   ../scripts/git-auto-push.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (df62653b94d6b60949f9d2e349251d014ca2190a)
+[main 84099b4] Auto-backup: 2026-04-26 22:10:58
+ 1 file changed, 6 insertions(+)
+To https://github.com/1336-ops/dasbor-perkara.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/1336-ops/dasbor-perkara.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-04-26 22:10] Push FAILED
+Saved working directory and index state WIP on main: 84099b4 Auto-backup: 2026-04-26 22:10:58
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../praisonai-integration (untracked content)
+	modified:   ../scripts/git-auto-push.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (c39a9451cafe81ec7fa3db53be8299c3ccca684b)
+[main 5d3ae3c] Auto-backup: 2026-04-26 22:11:59
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+To https://github.com/1336-ops/dasbor-perkara.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/1336-ops/dasbor-perkara.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-04-26 22:12] Push FAILED
+Saved working directory and index state WIP on main: 5d3ae3c Auto-backup: 2026-04-26 22:11:59
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 6 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../praisonai-integration (untracked content)
+	modified:   ../scripts/git-auto-push.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (04069aa063970c8002262c7c37b0b8d2065d5e20)
+[main dab274b] Auto-backup: 2026-04-26 22:13:07
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+To https://github.com/1336-ops/dasbor-perkara.git
+ + e82fec5...dab274b main -> main (forced update)
+[2026-04-26 22:13] Push OK — 1 files
+No local changes to save
+Current branch main is up to date.
+No stash entries found.
+[main 6a9cbbd] Auto-backup: 2026-04-27 22:00:47
+ 1 file changed, 21 insertions(+)
+ create mode 100644 memory/2026-04-27.md
+To https://github.com/1336-ops/dasbor-perkara.git
+   dab274b..6a9cbbd  main -> main
+[2026-04-27 22:00] Push OK — 1 files
+Saved working directory and index state WIP on main: c44696c feat: add provider badge + summary bar to Models page
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   src/app/api/status/route.ts
+	modified:   src/app/api/token-log/route.ts
+	modified:   src/components/dashboard/model-ranking.tsx
+	modified:   src/components/dashboard/token-usage-log.tsx
+	modified:   ../memory/.dreams/events.jsonl
+	modified:   ../memory/.dreams/short-term-recall.json
+	modified:   ../memory/2026-04-27.md
+	modified:   ../praisonai-integration (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (6b8c550f2774d18443f4eaf09c2f20595aa4ce05)
+[main a70b27c] Auto-backup: 2026-04-28 22:16:28
+ 7 files changed, 201 insertions(+), 130 deletions(-)
+To https://github.com/1336-ops/dasbor-perkara.git
+   6a9cbbd..a70b27c  main -> main
+[2026-04-28 22:16] Push OK — 7 files
+No local changes to save
+Current branch main is up to date.
+No stash entries found.
+[2026-04-28 22:17] No changes
+Saved working directory and index state WIP on main: 342f87f feat: provider badge di Model Ranking, Token Usage Log, UsageChart; stats grid: today/week/year; cache-bust fetch
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   data/model-history.json
+	modified:   ../praisonai-integration (untracked content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../llk_a.png
+	../llk_direct.png
+	../llk_step1.png
+	../llk_step2.png
+	../memory/2026-04-29.md
+	../skills/law-sipp-vpn/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (131a220f1798fa0df0393b93689717c9167c557e)
+[main a20de69] Auto-backup: 2026-04-29 22:13:44
+ 11 files changed, 2577 insertions(+), 1517 deletions(-)
+ create mode 100644 llk_a.png
+ create mode 100644 llk_direct.png
+ create mode 100644 llk_step1.png
+ create mode 100644 llk_step2.png
+ create mode 100644 memory/2026-04-29.md
+ create mode 100644 skills/law-sipp-vpn/SKILL.md
+ create mode 100644 skills/law-sipp-vpn/references/endpoints.md
+ create mode 100644 skills/law-sipp-vpn/references/format.md
+ create mode 100644 skills/law-sipp-vpn/references/login.md
+ create mode 100644 skills/law-sipp-vpn/scripts/sipp_helper.sh
+To https://github.com/1336-ops/dasbor-perkara.git
+   a70b27c..a20de69  main -> main
+[2026-04-29 22:13] Push OK — 11 files
+No local changes to save
+Current branch main is up to date.
+No stash entries found.
+[2026-04-29 22:14] No changes
+Saved working directory and index state WIP on main: a20de69 Auto-backup: 2026-04-29 22:13:44
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   data/model-history.json
+	modified:   src/components/layout/sidebar.tsx
+	modified:   ../memory/2026-04-29.md
+	modified:   ../praisonai-integration (untracked content)
+	modified:   ../simple_api_server.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	src/app/api/perkara/
+	src/app/api/settings/password/
+	src/app/perkara/
+	src/app/profile/
+	../memory/2026-04-30.md
+	../mimo-proposal/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (25d8c492e28c72cfd87ff41703ff8487cfeb4434)
+[main b2ac09d] Auto-backup: 2026-04-30 22:14:45
+ 10 files changed, 1042 insertions(+), 268 deletions(-)
+ create mode 100644 central-room/src/app/api/perkara/route.ts
+ create mode 100644 central-room/src/app/api/settings/password/route.ts
+ create mode 100644 central-room/src/app/perkara/page.tsx
+ create mode 100644 central-room/src/app/profile/page.tsx
+ create mode 100644 memory/2026-04-30.md
+ create mode 160000 mimo-proposal
+To https://github.com/1336-ops/dasbor-perkara.git
+   a20de69..b2ac09d  main -> main
+[2026-04-30 22:14] Push OK — 10 files
+No local changes to save
+Current branch main is up to date.
+No stash entries found.
+[2026-04-30 22:16] No changes
+Saved working directory and index state WIP on main: b2ac09d Auto-backup: 2026-04-30 22:14:45
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 6 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../memory/2026-04-30.md
+	modified:   ../mimo-proposal (untracked content)
+	modified:   ../praisonai-integration (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (77cbe4ae1b3af91a92b05502766878cbf88141ab)
+[main 9cd4d12] Auto-backup: 2026-05-01 00:36:48
+ 1 file changed, 40 insertions(+), 3 deletions(-)
+To https://github.com/1336-ops/dasbor-perkara.git
+   b2ac09d..9cd4d12  main -> main
+[2026-05-01 00:36] Push OK — 1 files
+Saved working directory and index state WIP on main: 9cd4d12 Auto-backup: 2026-05-01 00:36:48
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 7 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   package-lock.json
+	modified:   package.json
+	modified:   src/components/layout/sidebar.tsx
+	modified:   ../memory/2026-04-30.md
+	modified:   ../mimo-proposal (untracked content)
+	modified:   ../praisonai-integration (untracked content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	src/app/api/finance/
+	src/app/finance/
+	../finance-scripts/
+	../logs/
+	../memory/2026-05-01.md
+	../scripts/site-monitor.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (f342693e01389884d33a28c2af5364c4ef99c8e3)
+[main 1c7dd44] Auto-backup: 2026-05-01 22:09:34
+ 10 files changed, 1586 insertions(+), 6 deletions(-)
+ create mode 100644 central-room/src/app/api/finance/analyze/route.ts
+ create mode 100644 central-room/src/app/finance/page.tsx
+ create mode 100644 finance-scripts/analyze_stock.py
+ create mode 100644 logs/site-monitor-state.json
+ create mode 100644 memory/2026-05-01.md
+ create mode 100755 scripts/site-monitor.sh
+To https://github.com/1336-ops/dasbor-perkara.git
+   9cd4d12..1c7dd44  main -> main
+[2026-05-01 22:09] Push OK — 10 files
+Saved working directory and index state WIP on main: 1c7dd44 Auto-backup: 2026-05-01 22:09:34
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 8 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../logs/site-monitor-state.json
+	modified:   ../mimo-proposal (untracked content)
+	modified:   ../praisonai-integration (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (843eaa42b672cff26baee5fbcf8fc7b79457ff4c)
+[main 706695c] Auto-backup: 2026-05-01 22:11:22
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+To https://github.com/1336-ops/dasbor-perkara.git
+   1c7dd44..706695c  main -> main
+[2026-05-01 22:11] Push OK — 1 files
+Saved working directory and index state WIP on main: 706695c Auto-backup: 2026-05-01 22:11:22
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 9 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../logs/site-monitor-state.json
+	modified:   ../mimo-proposal (untracked content)
+	modified:   ../praisonai-integration (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (3e42d3fbb5200b7c5c7e711771b383f8222f44d7)
+[main b092aeb] Auto-backup: 2026-05-01 23:17:26
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+To https://github.com/1336-ops/dasbor-perkara.git
+   706695c..b092aeb  main -> main
+[2026-05-01 23:17] Push OK — 1 files
+Saved working directory and index state WIP on main: 064d1c4 Cleanup workspace: remove duplicate dasbor-perkara, PraisonAI integration, lexskripta-landing backup; move to .archive; keep finance-scripts, mimo-proposal, scraper; update self-improving skill
+Current branch main is up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../.archive/praisonai-integration (untracked content)
+	modified:   ../TOOLS.md
+	modified:   ../logs/site-monitor-state.json
+	modified:   ../projects/mimo-proposal (untracked content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../skills/telegram-file-send/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (d1c216bb02a98091d43222bb9ae86ad01748a816)
+[main 410142e] Auto-backup: 2026-05-02 22:05:07
+ 3 files changed, 62 insertions(+), 2 deletions(-)
+ create mode 100644 skills/telegram-file-send/SKILL.md
+To https://github.com/1336-ops/dasbor-perkara.git
+   b092aeb..410142e  main -> main
+[2026-05-02 22:05] Push OK — 3 files
+Saved working directory and index state WIP on main: 410142e Auto-backup: 2026-05-02 22:05:07
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../.archive/praisonai-integration (untracked content)
+	modified:   data/model-history.json
+	modified:   ../memory/2026-05-02.md
+	modified:   ../projects/mimo-proposal (untracked content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../logs/pending-notification.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (f2605f03910bf8e7f5a8e86b86b26dec888c9341)
+[main 72ba894] Auto-backup: 2026-05-02 22:51:57
+ 3 files changed, 495 insertions(+), 509 deletions(-)
+ create mode 100644 logs/pending-notification.txt
+To https://github.com/1336-ops/dasbor-perkara.git
+   410142e..72ba894  main -> main
+[2026-05-02 22:51] Push OK — 3 files
+Saved working directory and index state WIP on main: 72ba894 Auto-backup: 2026-05-02 22:51:57
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../.archive/praisonai-integration (untracked content)
+	modified:   src/app/api/models/route.ts
+	modified:   src/app/models/page.tsx
+	deleted:    ../lexgpt/.devcontainer/devcontainer.json
+	deleted:    ../lexgpt/.gitignore
+	deleted:    ../lexgpt/A1869-04.pdf
+	deleted:    ../lexgpt/AI_Lawyer_Report.pdf
+	deleted:    ../lexgpt/LICENSE
+	deleted:    ../lexgpt/RAG with DeepSeek R1.pdf
+	deleted:    ../lexgpt/README.md
+	deleted:    ../lexgpt/__pycache__/rag_pipeline.cpython-312.pyc
+	deleted:    ../lexgpt/__pycache__/vector_database.cpython-312.pyc
+	deleted:    ../lexgpt/frontend.py
+	deleted:    ../lexgpt/main.py
+	deleted:    ../lexgpt/pdfs/A1869-04.pdf
+	deleted:    ../lexgpt/rag_pipeline.py
+	deleted:    ../lexgpt/requirements.txt
+	deleted:    ../lexgpt/universal_declaration_of_human_rights.pdf
+	deleted:    ../lexgpt/utils/photo1.png
+	deleted:    ../lexgpt/utils/photo2.png
+	deleted:    ../lexgpt/utils/photo3.png
+	deleted:    ../lexgpt/utils/photo4.png
+	deleted:    ../lexgpt/vector_database.py
+	deleted:    ../lexgpt/vectorstore/db_faiss/index.faiss
+	deleted:    ../lexgpt/vectorstore/db_faiss/index.pkl
+	modified:   ../projects/mimo-proposal (untracked content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../memory/2026-05-03-0705.md
+	../memory/2026-05-03.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (2537ed38313c4e547af7176534ca7bb8be458713)
+[main 4627e65] Auto-backup: 2026-05-03 22:23:24
+ 26 files changed, 279 insertions(+), 676 deletions(-)
+ delete mode 100644 lexgpt/.devcontainer/devcontainer.json
+ delete mode 100644 lexgpt/.gitignore
+ delete mode 100644 lexgpt/A1869-04.pdf
+ delete mode 100644 lexgpt/AI_Lawyer_Report.pdf
+ delete mode 100644 lexgpt/LICENSE
+ delete mode 100644 lexgpt/RAG with DeepSeek R1.pdf
+ delete mode 100644 lexgpt/README.md
+ delete mode 100644 lexgpt/__pycache__/rag_pipeline.cpython-312.pyc
+ delete mode 100644 lexgpt/__pycache__/vector_database.cpython-312.pyc
+ delete mode 100644 lexgpt/frontend.py
+ delete mode 100644 lexgpt/main.py
+ delete mode 100644 lexgpt/pdfs/A1869-04.pdf
+ delete mode 100644 lexgpt/rag_pipeline.py
+ delete mode 100644 lexgpt/requirements.txt
+ delete mode 100644 lexgpt/universal_declaration_of_human_rights.pdf
+ delete mode 100644 lexgpt/utils/photo1.png
+ delete mode 100644 lexgpt/utils/photo2.png
+ delete mode 100644 lexgpt/utils/photo3.png
+ delete mode 100644 lexgpt/utils/photo4.png
+ delete mode 100644 lexgpt/vector_database.py
+ delete mode 100644 lexgpt/vectorstore/db_faiss/index.faiss
+ delete mode 100644 lexgpt/vectorstore/db_faiss/index.pkl
+ create mode 100644 memory/2026-05-03-0705.md
+ create mode 100644 memory/2026-05-03.md
+To https://github.com/1336-ops/dasbor-perkara.git
+   72ba894..4627e65  main -> main
+[2026-05-03 22:23] Push OK — 26 files
+No local changes to save
+Current branch main is up to date.
+No stash entries found.
+[2026-05-03 22:25] No changes
+Saved working directory and index state WIP on main: c5da904 Update: cron job model fixes, timeout adjustments
+Current branch main is up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../.archive/praisonai-integration (untracked content)
+	modified:   ../log_snapshot.txt
+	modified:   ../projects/mimo-proposal (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (40034496236ccdaac03f6619fd6ff23b9f12c836)
+[main c07bf89] Auto-backup: 2026-05-07 22:28:47
+ 1 file changed, 20 insertions(+), 20 deletions(-)
+To https://github.com/1336-ops/dasbor-perkara.git
+   4627e65..c07bf89  main -> main
+Saved working directory and index state WIP on main: c07bf89 Auto-backup: 2026-05-07 22:28:47
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../.archive/praisonai-integration (untracked content)
+	modified:   ../log_snapshot.txt
+	modified:   ../projects/mimo-proposal (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (ee3d5cfc23c498e5f2ed8058487fcaf927c5d0a2)
+[main 62c945e] Auto-backup: 2026-05-08 23:07:19
+ 1 file changed, 20 insertions(+), 20 deletions(-)
+To https://github.com/1336-ops/dasbor-perkara.git
+   c07bf89..62c945e  main -> main
+[2026-05-08 23:07] Push OK — 1 files
+Saved working directory and index state WIP on main: 62c945e Auto-backup: 2026-05-08 23:07:19
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../.archive/praisonai-integration (untracked content)
+	modified:   ../.openclaw/workspace-state.json
+	deleted:    ../BOOTSTRAP.md
+	modified:   ../log_snapshot.txt
+	modified:   ../logs/site-monitor-state.json
+	modified:   ../projects/mimo-proposal (untracked content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../archive_backup.zip
+	../security-audit/audit_20260509_000001.txt
+	../security-audit/audit_20260509_113845.txt
+	../security-audit/audit_20260509_204600.txt
+	../security-audit/audit_20260509_215516.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (71f96c068cbaa59cb1221eee30185206d3d9b54f)
+[main f971a45] Auto-backup: 2026-05-09 22:12:58
+ 9 files changed, 250 insertions(+), 76 deletions(-)
+ delete mode 100644 BOOTSTRAP.md
+ create mode 100644 archive_backup.zip
+ create mode 100644 security-audit/audit_20260509_000001.txt
+ create mode 100644 security-audit/audit_20260509_113845.txt
+ create mode 100644 security-audit/audit_20260509_204600.txt
+ create mode 100644 security-audit/audit_20260509_215516.txt
+remote: error: Trace: c07e68d5fbb9c8399ee3cadaae9ba5249656d2f0762811df13c8076967333552        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File archive_backup.zip is 247.77 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/1336-ops/dasbor-perkara.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/1336-ops/dasbor-perkara.git'
+[2026-05-09 22:14] Push FAILED
+Saved working directory and index state WIP on main: f971a45 Auto-backup: 2026-05-09 22:12:58
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../.archive/praisonai-integration (untracked content)
+	modified:   ../log_snapshot.txt
+	modified:   ../logs/site-monitor-state.json
+	modified:   ../projects/mimo-proposal (untracked content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../security-audit/audit_20260511_000002.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (7b7190436bffcff7d54c4625f614f87263e4face)
+[main 2d17166] Auto-backup: 2026-05-12 07:05:04
+ 3 files changed, 32 insertions(+), 24 deletions(-)
+ create mode 100644 security-audit/audit_20260511_000002.txt
+remote: error: Trace: 6f2444a7ce6240cf3591485b9caa2f9ca151520fedb0269a0197e4a610d610cf        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File archive_backup.zip is 247.77 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/1336-ops/dasbor-perkara.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/1336-ops/dasbor-perkara.git'
+Saved working directory and index state WIP on main: 2d17166 Auto-backup: 2026-05-12 07:05:04
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../.archive/praisonai-integration (untracked content)
+	modified:   ../logs/site-monitor-state.json
+	modified:   ../projects/mimo-proposal (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (9acbbc7eb95ecf0ca0a6e1ea77f63b2fe30800aa)
+[main 415262e] Auto-backup: 2026-05-12 07:09:00
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+remote: error: Trace: 6f2504dbc38575525e9cc28ab5f9adc15c7392e56bf8c3468d1eb66a24488824        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File archive_backup.zip is 247.77 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/1336-ops/dasbor-perkara.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/1336-ops/dasbor-perkara.git'
+[2026-05-12 07:10] Push FAILED
+Saved working directory and index state WIP on main: 9ee4fa9 Auto-backup: 2026-05-12 07:12:43
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../.archive/dashboard/token_usage_cards.html
+	modified:   ../.archive/legal_dashboard_api.html
+	modified:   ../.archive/praisonai-integration (untracked content)
+	modified:   ../__pycache__/simple_api_server.cpython-312.pyc
+	modified:   data/model-history.json
+	modified:   src/app/api/models-list/route.ts
+	modified:   src/app/api/status/route.ts
+	modified:   src/app/chat/page.tsx
+	modified:   src/app/models/page.tsx
+	modified:   src/app/page.tsx
+	modified:   src/components/dashboard/real-time-clock.tsx
+	modified:   src/components/dashboard/stats-grid.tsx
+	modified:   src/components/dashboard/usage-chart.tsx
+	modified:   src/components/dashboard/wib-clock.tsx
+	modified:   src/components/layout/header.tsx
+	modified:   ../log_snapshot.txt
+	modified:   ../projects/mimo-proposal (untracked content)
+	modified:   ../simple_api_server.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	src/components/dashboard/model-selector.tsx
+	../memory/2026-05-12-1351.md
+	../security-audit/audit_20260513_000001.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (463e835096ee645c9bd33f7beea87a9c8dd78d3b)
+[main 82082ca] Auto-backup: 2026-05-13 22:44:00
+ 19 files changed, 2172 insertions(+), 818 deletions(-)
+ create mode 100644 central-room/src/components/dashboard/model-selector.tsx
+ create mode 100644 memory/2026-05-12-1351.md
+ create mode 100644 security-audit/audit_20260513_000001.txt
+remote: error: Trace: 4daf63971f7b69cdd829a09b6131a1f80fb60f235cdd177eca2057215cc39b87        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File archive_backup.zip is 247.77 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/1336-ops/dasbor-perkara.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/1336-ops/dasbor-perkara.git'
+[2026-05-13 22:45] Push FAILED
+Saved working directory and index state WIP on main: 82082ca Auto-backup: 2026-05-13 22:44:00
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../.archive/praisonai-integration (untracked content)
+	modified:   ../log_snapshot.txt
+	modified:   ../projects/mimo-proposal (untracked content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../memory/2026-05-14-1847.md
+	../memory/2026-05-14.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (61f07cb2945a58a1bfaef106a925e30a97203ae9)
+[main f6ab997] Auto-backup: 2026-05-14 22:06:35
+ 3 files changed, 212 insertions(+), 20 deletions(-)
+ create mode 100644 memory/2026-05-14-1847.md
+ create mode 100644 memory/2026-05-14.md
+remote: error: Trace: b9865adce94570a4fbc707cbd8c54c54d0e54ff27f428e0029c5ee1a706136a2        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File archive_backup.zip is 247.77 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/1336-ops/dasbor-perkara.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/1336-ops/dasbor-perkara.git'
+[2026-05-14 22:07] Push FAILED
+No local changes to save
+Current branch main is up to date.
+No stash entries found.
+[2026-05-14 22:08] No changes
+Saved working directory and index state WIP on main: f6ab997 Auto-backup: 2026-05-14 22:06:35
+Current branch main is up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../.archive/praisonai-integration (untracked content)
+	modified:   ../log_snapshot.txt
+	modified:   ../projects/mimo-proposal (untracked content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../memory/2026-05-15.md
+	../security-audit/audit_20260515_000001.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (a828235c526f815b07643621ad97d44d2bfa4741)
+[main 69899b0] Auto-backup: 2026-05-15 22:03:04
+ 3 files changed, 33 insertions(+), 20 deletions(-)
+ create mode 100644 memory/2026-05-15.md
+ create mode 100644 security-audit/audit_20260515_000001.txt
+No local changes to save
+Current branch main is up to date.
+No stash entries found.
+[2026-05-15 22:03] No changes
+remote: error: Trace: 62db0a733419c73337f15e5a4379aa4acf1ae272175ac2771d19dd23eaeab5b5        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File archive_backup.zip is 247.77 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/1336-ops/dasbor-perkara.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/1336-ops/dasbor-perkara.git'
+[2026-05-15 22:04] Push FAILED
+.gitignore: needs merge
+README.md: needs merge
+data/settings.json: needs merge
+package-lock.json: needs merge
+package.json: needs merge
+src/app/api/actions/route.ts: needs merge
+src/app/api/agents-skills/route.ts: needs merge
+src/app/api/auth/route.ts: needs merge
+src/app/api/available-skills/route.ts: needs merge
+src/app/api/briefing/route.ts: needs merge
+src/app/api/chat/route.ts: needs merge
+src/app/api/install-from-url/route.ts: needs merge
+src/app/api/install-skill-to-agent/route.ts: needs merge
+src/app/api/logs/route.ts: needs merge
+src/app/api/model-status/route.ts: needs merge
+src/app/api/models-list/route.ts: needs merge
+src/app/api/models/route.ts: needs merge
+src/app/api/schedule/route.ts: needs merge
+src/app/api/sessions/route.ts: needs merge
+src/app/api/settings/route.ts: needs merge
+src/app/api/skill-content/route.ts: needs merge
+src/app/api/status/route.ts: needs merge
+src/app/api/system/route.ts: needs merge
+src/app/api/token-log/route.ts: needs merge
+src/app/chat/page.tsx: needs merge
+src/app/layout.tsx: needs merge
+src/app/login/page.tsx: needs merge
+src/app/models/page.tsx: needs merge
+src/app/page.tsx: needs merge
+src/app/profile/page.tsx: needs merge
+src/app/settings/page.tsx: needs merge
+src/components/layout/header.tsx: needs merge
+src/components/layout/shell.tsx: needs merge
+src/components/layout/sidebar.tsx: needs merge
+src/middleware.ts: needs merge
+The stash entry is kept in case you need it again.
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+interactive rebase in progress; onto 5208d81
+Last command done (1 command done):
+   pick 74e9bdd Initial commit: Central Room - Hermes Legal AI Dashboard
+Next commands to do (2 remaining commands):
+   pick dbd7f42 Auto-backup: 2026-05-17 22:00:45
+   pick 46dfddd Auto-backup: 2026-05-19 22:01:02
+  (use "git rebase --edit-todo" to view and edit)
+You are currently editing a commit while rebasing branch 'main' on '5208d81'.
+  (use "git commit --amend" to amend the current commit)
+  (use "git rebase --continue" once you are satisfied with your changes)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+interactive rebase in progress; onto 5208d81
+Last command done (1 command done):
+   pick 74e9bdd Initial commit: Central Room - Hermes Legal AI Dashboard
+Next commands to do (2 remaining commands):
+   pick dbd7f42 Auto-backup: 2026-05-17 22:00:45
+   pick 46dfddd Auto-backup: 2026-05-19 22:01:02
+  (use "git rebase --edit-todo" to view and edit)
+You are currently editing a commit while rebasing branch 'main' on '5208d81'.
+  (use "git commit --amend" to amend the current commit)
+  (use "git rebase --continue" once you are satisfied with your changes)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.npmrc
+	.npmrc.tmp
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+[detached HEAD 824744a] Auto-backup: 2026-05-22 22:00:31
+ 3 files changed, 37 insertions(+)
+ create mode 100644 .npmrc
+ create mode 100644 .npmrc.tmp
+Everything up-to-date
+[2026-05-22 22:00] Push OK — 3 files
+No local changes to save
+error: cannot rebase: You have unstaged changes.
+error: Please commit or stash them.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+[main cc90fc7] Auto-backup: 2026-05-24 22:00:41
+ 1 file changed, 16 insertions(+)
+To https://github.com/1336-ops/dasbor-perkara.git
+   102ea8a..cc90fc7  main -> main
+[2026-05-24 22:00] Push OK — 1 files
+No local changes to save
+error: cannot rebase: You have unstaged changes.
+error: Please commit or stash them.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 6 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 7 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 8 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 9 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+[main 737ef23] Auto-backup: 2026-05-29 22:00:21
+ 1 file changed, 16 insertions(+)
+To https://github.com/1336-ops/dasbor-perkara.git
+   a3dbe20..737ef23  main -> main
+[2026-05-29 22:00] Push OK — 1 files
+Current branch main is up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+	modified:   next.config.ts
+	modified:   src/app/api/model-status/route.ts
+	modified:   src/app/finance/page.tsx
+	modified:   src/app/knowledge-graph/page.tsx
+	modified:   src/app/logs/page.tsx
+	modified:   src/app/model-status/page.tsx
+	modified:   src/app/page.tsx
+	modified:   src/app/perkara/page.tsx
+	modified:   src/app/system/page.tsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (749e856b6d344c9d85a3ecdd80a6308565ca1778)
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 6 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 7 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 8 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 9 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 10 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+Current branch main is up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	data/git-push.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is ahead of 'origin/main' by 11 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   data/git-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.

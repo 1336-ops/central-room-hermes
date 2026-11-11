@@ -1,0 +1,6730 @@
+{
+  "openrouter/nvidia/nemotron-3-nano-30b-a3b:free": [
+    {
+      "time": "2026-04-28T23:36:40.751Z",
+      "ok": true,
+      "latency": 1119,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.047Z",
+      "ok": true,
+      "latency": 1406,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.843Z",
+      "ok": true,
+      "latency": 1066,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.108Z",
+      "ok": true,
+      "latency": 5681,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.661Z",
+      "ok": true,
+      "latency": 3181,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:01.990Z",
+      "ok": true,
+      "latency": 2494,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.650Z",
+      "ok": true,
+      "latency": 2810,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.181Z",
+      "ok": true,
+      "latency": 2462,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.706Z",
+      "ok": true,
+      "latency": 2735,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.385Z",
+      "ok": true,
+      "latency": 2520,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.472Z",
+      "ok": true,
+      "latency": 2615,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.598Z",
+      "ok": true,
+      "latency": 2718,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.687Z",
+      "ok": true,
+      "latency": 2836,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.470Z",
+      "ok": true,
+      "latency": 2669,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.670Z",
+      "ok": true,
+      "latency": 1028,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.482Z",
+      "ok": true,
+      "latency": 1201,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.843Z",
+      "ok": true,
+      "latency": 542,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.501Z",
+      "ok": true,
+      "latency": 1024,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.292Z",
+      "ok": true,
+      "latency": 1028,
+      "inferenceTime": null
+    }
+  ],
+  "custom-apis-iflow-cn/deepseek-r1": [
+    {
+      "time": "2026-04-28T23:36:40.788Z",
+      "ok": true,
+      "latency": 1176,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.057Z",
+      "ok": true,
+      "latency": 1436,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.834Z",
+      "ok": true,
+      "latency": 1081,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.660Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.149Z",
+      "ok": true,
+      "latency": 6760,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.702Z",
+      "ok": true,
+      "latency": 3248,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.695Z",
+      "ok": true,
+      "latency": 3223,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.461Z",
+      "ok": true,
+      "latency": 2648,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.333Z",
+      "ok": true,
+      "latency": 2643,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.724Z",
+      "ok": true,
+      "latency": 2772,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.501Z",
+      "ok": true,
+      "latency": 2658,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.440Z",
+      "ok": true,
+      "latency": 2606,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.509Z",
+      "ok": true,
+      "latency": 2652,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.650Z",
+      "ok": true,
+      "latency": 2826,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.491Z",
+      "ok": true,
+      "latency": 2714,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.866Z",
+      "ok": true,
+      "latency": 1246,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.812Z",
+      "ok": true,
+      "latency": 1555,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.533Z",
+      "ok": true,
+      "latency": 248,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:51.139Z",
+      "ok": true,
+      "latency": 1690,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.273Z",
+      "ok": true,
+      "latency": 1035,
+      "inferenceTime": null
+    }
+  ],
+  "custom-apis-iflow-cn/qwen3-235b-a22b-thinking": [
+    {
+      "time": "2026-04-28T23:36:40.744Z",
+      "ok": true,
+      "latency": 1128,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.062Z",
+      "ok": true,
+      "latency": 1438,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.791Z",
+      "ok": true,
+      "latency": 1033,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.663Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:19:56.741Z",
+      "ok": true,
+      "latency": 1342,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.597Z",
+      "ok": true,
+      "latency": 3138,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:03.129Z",
+      "ok": true,
+      "latency": 3652,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.423Z",
+      "ok": true,
+      "latency": 2604,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.217Z",
+      "ok": true,
+      "latency": 2520,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.757Z",
+      "ok": true,
+      "latency": 2802,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.476Z",
+      "ok": true,
+      "latency": 2627,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.489Z",
+      "ok": true,
+      "latency": 2651,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.469Z",
+      "ok": true,
+      "latency": 2607,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.650Z",
+      "ok": true,
+      "latency": 2820,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.487Z",
+      "ok": true,
+      "latency": 2705,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.635Z",
+      "ok": true,
+      "latency": 1010,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.317Z",
+      "ok": true,
+      "latency": 1054,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.532Z",
+      "ok": true,
+      "latency": 243,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.466Z",
+      "ok": true,
+      "latency": 1012,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.310Z",
+      "ok": true,
+      "latency": 1067,
+      "inferenceTime": null
+    }
+  ],
+  "sumopod/mimo-v2-pro": [
+    {
+      "time": "2026-04-28T23:36:40.765Z",
+      "ok": true,
+      "latency": 1139,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.192Z",
+      "ok": true,
+      "latency": 1556,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.561Z",
+      "ok": true,
+      "latency": 789,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.220Z",
+      "ok": true,
+      "latency": 6803,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.751Z",
+      "ok": true,
+      "latency": 3278,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.655Z",
+      "ok": true,
+      "latency": 3165,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.507Z",
+      "ok": true,
+      "latency": 2672,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.333Z",
+      "ok": true,
+      "latency": 2620,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.941Z",
+      "ok": true,
+      "latency": 2974,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.579Z",
+      "ok": true,
+      "latency": 2719,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.439Z",
+      "ok": true,
+      "latency": 2588,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.540Z",
+      "ok": true,
+      "latency": 2665,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:53.492Z",
+      "ok": true,
+      "latency": 3647,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.491Z",
+      "ok": true,
+      "latency": 2695,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.655Z",
+      "ok": true,
+      "latency": 1019,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.509Z",
+      "ok": true,
+      "latency": 1233,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.539Z",
+      "ok": true,
+      "latency": 241,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.499Z",
+      "ok": true,
+      "latency": 1029,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.294Z",
+      "ok": true,
+      "latency": 1038,
+      "inferenceTime": null
+    }
+  ],
+  "custom-ai-semutssh-com/claude-opus-4-6": [
+    {
+      "time": "2026-04-28T23:36:40.773Z",
+      "ok": true,
+      "latency": 1155,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.087Z",
+      "ok": true,
+      "latency": 1460,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.841Z",
+      "ok": true,
+      "latency": 1080,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.663Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.878Z",
+      "ok": true,
+      "latency": 6471,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.815Z",
+      "ok": true,
+      "latency": 3351,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:01.996Z",
+      "ok": true,
+      "latency": 2515,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.428Z",
+      "ok": true,
+      "latency": 2604,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.550Z",
+      "ok": true,
+      "latency": 2848,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.714Z",
+      "ok": true,
+      "latency": 2755,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.489Z",
+      "ok": true,
+      "latency": 2638,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.424Z",
+      "ok": true,
+      "latency": 2582,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.153Z",
+      "ok": true,
+      "latency": 2287,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:53.027Z",
+      "ok": true,
+      "latency": 3192,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.459Z",
+      "ok": true,
+      "latency": 2672,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.669Z",
+      "ok": true,
+      "latency": 1040,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.315Z",
+      "ok": true,
+      "latency": 1047,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.534Z",
+      "ok": true,
+      "latency": 244,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.455Z",
+      "ok": true,
+      "latency": 997,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.834Z",
+      "ok": true,
+      "latency": 1588,
+      "inferenceTime": null
+    }
+  ],
+  "custom-apis-iflow-cn/kimi-k2-0905": [
+    {
+      "time": "2026-04-28T23:36:40.770Z",
+      "ok": true,
+      "latency": 1156,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.097Z",
+      "ok": true,
+      "latency": 1474,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.586Z",
+      "ok": true,
+      "latency": 830,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.663Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:19:56.738Z",
+      "ok": true,
+      "latency": 1345,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.658Z",
+      "ok": true,
+      "latency": 3201,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.526Z",
+      "ok": true,
+      "latency": 3051,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.495Z",
+      "ok": true,
+      "latency": 2678,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.358Z",
+      "ok": true,
+      "latency": 2663,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.726Z",
+      "ok": true,
+      "latency": 2772,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.509Z",
+      "ok": true,
+      "latency": 2664,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.429Z",
+      "ok": true,
+      "latency": 2593,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.119Z",
+      "ok": true,
+      "latency": 2259,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.757Z",
+      "ok": true,
+      "latency": 2930,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.484Z",
+      "ok": true,
+      "latency": 2704,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.650Z",
+      "ok": true,
+      "latency": 1027,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.306Z",
+      "ok": true,
+      "latency": 1046,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.530Z",
+      "ok": true,
+      "latency": 243,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.525Z",
+      "ok": true,
+      "latency": 1073,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.283Z",
+      "ok": true,
+      "latency": 1043,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/moonshotai/kimi-k2-instruct-0905": [
+    {
+      "time": "2026-04-28T23:36:40.770Z",
+      "ok": true,
+      "latency": 1122,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.042Z",
+      "ok": true,
+      "latency": 1389,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.801Z",
+      "ok": true,
+      "latency": 1008,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.354Z",
+      "ok": true,
+      "latency": 5908,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.639Z",
+      "ok": true,
+      "latency": 3146,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.652Z",
+      "ok": true,
+      "latency": 3140,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.471Z",
+      "ok": true,
+      "latency": 2615,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.225Z",
+      "ok": true,
+      "latency": 2488,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.705Z",
+      "ok": true,
+      "latency": 2718,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.129Z",
+      "ok": true,
+      "latency": 2248,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.512Z",
+      "ok": true,
+      "latency": 2640,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.172Z",
+      "ok": true,
+      "latency": 2274,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.712Z",
+      "ok": true,
+      "latency": 2847,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.509Z",
+      "ok": true,
+      "latency": 2695,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.674Z",
+      "ok": true,
+      "latency": 1015,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.354Z",
+      "ok": true,
+      "latency": 1061,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.554Z",
+      "ok": true,
+      "latency": 245,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.492Z",
+      "ok": true,
+      "latency": 995,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.292Z",
+      "ok": true,
+      "latency": 1004,
+      "inferenceTime": null
+    }
+  ],
+  "sumopod/nemotron-3-super-free": [
+    {
+      "time": "2026-04-28T23:36:40.777Z",
+      "ok": true,
+      "latency": 1146,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.070Z",
+      "ok": true,
+      "latency": 1430,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.829Z",
+      "ok": true,
+      "latency": 1053,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.108Z",
+      "ok": true,
+      "latency": 5682,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.689Z",
+      "ok": true,
+      "latency": 3210,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.531Z",
+      "ok": true,
+      "latency": 3036,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.520Z",
+      "ok": true,
+      "latency": 2681,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.213Z",
+      "ok": true,
+      "latency": 2495,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.739Z",
+      "ok": true,
+      "latency": 2768,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.558Z",
+      "ok": true,
+      "latency": 2694,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.463Z",
+      "ok": true,
+      "latency": 2608,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.500Z",
+      "ok": true,
+      "latency": 2621,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.782Z",
+      "ok": true,
+      "latency": 2932,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.495Z",
+      "ok": true,
+      "latency": 2694,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.850Z",
+      "ok": true,
+      "latency": 1209,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.333Z",
+      "ok": true,
+      "latency": 1053,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.699Z",
+      "ok": true,
+      "latency": 399,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.639Z",
+      "ok": true,
+      "latency": 1163,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.289Z",
+      "ok": true,
+      "latency": 1026,
+      "inferenceTime": null
+    }
+  ],
+  "custom-ai-semutssh-com/kimi-k2-thinking": [
+    {
+      "time": "2026-04-28T23:36:40.748Z",
+      "ok": true,
+      "latency": 1127,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.089Z",
+      "ok": true,
+      "latency": 1460,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.792Z",
+      "ok": true,
+      "latency": 1026,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.390Z",
+      "ok": true,
+      "latency": 5979,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.710Z",
+      "ok": true,
+      "latency": 3242,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.697Z",
+      "ok": true,
+      "latency": 3213,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.482Z",
+      "ok": true,
+      "latency": 2653,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.334Z",
+      "ok": true,
+      "latency": 2628,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.849Z",
+      "ok": true,
+      "latency": 2887,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.486Z",
+      "ok": true,
+      "latency": 2632,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.507Z",
+      "ok": true,
+      "latency": 2662,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.214Z",
+      "ok": true,
+      "latency": 2345,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.645Z",
+      "ok": true,
+      "latency": 2805,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.584Z",
+      "ok": true,
+      "latency": 2793,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.696Z",
+      "ok": true,
+      "latency": 1065,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.501Z",
+      "ok": true,
+      "latency": 1230,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.537Z",
+      "ok": true,
+      "latency": 245,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.495Z",
+      "ok": true,
+      "latency": 1032,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.284Z",
+      "ok": true,
+      "latency": 1035,
+      "inferenceTime": null
+    }
+  ],
+  "sumopod/big-pickle": [
+    {
+      "time": "2026-04-28T23:36:40.799Z",
+      "ok": true,
+      "latency": 1172,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.083Z",
+      "ok": true,
+      "latency": 1445,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.834Z",
+      "ok": true,
+      "latency": 1060,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.105Z",
+      "ok": true,
+      "latency": 5681,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.655Z",
+      "ok": true,
+      "latency": 3178,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.342Z",
+      "ok": true,
+      "latency": 2850,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.415Z",
+      "ok": true,
+      "latency": 2578,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.201Z",
+      "ok": true,
+      "latency": 2486,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.684Z",
+      "ok": true,
+      "latency": 2715,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.511Z",
+      "ok": true,
+      "latency": 2650,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.498Z",
+      "ok": true,
+      "latency": 2646,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.166Z",
+      "ok": true,
+      "latency": 2290,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.662Z",
+      "ok": true,
+      "latency": 2814,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.589Z",
+      "ok": true,
+      "latency": 2790,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.791Z",
+      "ok": true,
+      "latency": 1153,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.318Z",
+      "ok": true,
+      "latency": 1040,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.622Z",
+      "ok": true,
+      "latency": 323,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.508Z",
+      "ok": true,
+      "latency": 1035,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.306Z",
+      "ok": true,
+      "latency": 1047,
+      "inferenceTime": null
+    }
+  ],
+  "sumopod/minimax-m2.5-free": [
+    {
+      "time": "2026-04-28T23:36:40.781Z",
+      "ok": true,
+      "latency": 1153,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.013Z",
+      "ok": true,
+      "latency": 1374,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.835Z",
+      "ok": true,
+      "latency": 1060,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.850Z",
+      "ok": true,
+      "latency": 6425,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.657Z",
+      "ok": true,
+      "latency": 3179,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.709Z",
+      "ok": true,
+      "latency": 3215,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.570Z",
+      "ok": true,
+      "latency": 2732,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.554Z",
+      "ok": true,
+      "latency": 2837,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.750Z",
+      "ok": true,
+      "latency": 2780,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.660Z",
+      "ok": true,
+      "latency": 2797,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.707Z",
+      "ok": true,
+      "latency": 2854,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.519Z",
+      "ok": true,
+      "latency": 2642,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.688Z",
+      "ok": true,
+      "latency": 2839,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.743Z",
+      "ok": true,
+      "latency": 2943,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.662Z",
+      "ok": true,
+      "latency": 1023,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.345Z",
+      "ok": true,
+      "latency": 1066,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.604Z",
+      "ok": true,
+      "latency": 304,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:59.477Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.303Z",
+      "ok": true,
+      "latency": 1041,
+      "inferenceTime": null
+    }
+  ],
+  "custom-ai-semutssh-com/glm-4.7": [
+    {
+      "time": "2026-04-28T23:36:40.792Z",
+      "ok": true,
+      "latency": 1172,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.006Z",
+      "ok": true,
+      "latency": 1377,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.825Z",
+      "ok": true,
+      "latency": 1060,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.887Z",
+      "ok": true,
+      "latency": 6476,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.647Z",
+      "ok": true,
+      "latency": 3180,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.934Z",
+      "ok": true,
+      "latency": 3451,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.416Z",
+      "ok": true,
+      "latency": 2588,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.208Z",
+      "ok": true,
+      "latency": 2504,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.767Z",
+      "ok": true,
+      "latency": 2806,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.466Z",
+      "ok": true,
+      "latency": 2613,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.491Z",
+      "ok": true,
+      "latency": 2647,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.118Z",
+      "ok": true,
+      "latency": 2250,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.668Z",
+      "ok": true,
+      "latency": 2830,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.626Z",
+      "ok": true,
+      "latency": 2836,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.840Z",
+      "ok": true,
+      "latency": 1210,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.301Z",
+      "ok": true,
+      "latency": 1031,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.530Z",
+      "ok": true,
+      "latency": 239,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.467Z",
+      "ok": true,
+      "latency": 1006,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.308Z",
+      "ok": true,
+      "latency": 1060,
+      "inferenceTime": null
+    }
+  ],
+  "openrouter/z-ai/glm-4.5-air:free": [
+    {
+      "time": "2026-04-28T23:36:40.758Z",
+      "ok": true,
+      "latency": 1124,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.070Z",
+      "ok": true,
+      "latency": 1428,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.863Z",
+      "ok": true,
+      "latency": 1084,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.109Z",
+      "ok": true,
+      "latency": 5680,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.709Z",
+      "ok": true,
+      "latency": 3227,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.652Z",
+      "ok": true,
+      "latency": 3153,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.679Z",
+      "ok": true,
+      "latency": 2836,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.324Z",
+      "ok": true,
+      "latency": 2602,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.735Z",
+      "ok": true,
+      "latency": 2761,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.546Z",
+      "ok": true,
+      "latency": 2680,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.553Z",
+      "ok": true,
+      "latency": 2694,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.552Z",
+      "ok": true,
+      "latency": 2670,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.660Z",
+      "ok": true,
+      "latency": 2807,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.512Z",
+      "ok": true,
+      "latency": 2709,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.645Z",
+      "ok": true,
+      "latency": 1000,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.324Z",
+      "ok": true,
+      "latency": 1042,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.545Z",
+      "ok": true,
+      "latency": 243,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.485Z",
+      "ok": true,
+      "latency": 1003,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.311Z",
+      "ok": true,
+      "latency": 1044,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/minimaxai/minimax-m2.7": [
+    {
+      "time": "2026-04-28T23:36:40.756Z",
+      "ok": true,
+      "latency": 1114,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.092Z",
+      "ok": true,
+      "latency": 1443,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.848Z",
+      "ok": true,
+      "latency": 1060,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.122Z",
+      "ok": true,
+      "latency": 6686,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.649Z",
+      "ok": true,
+      "latency": 3160,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.010Z",
+      "ok": true,
+      "latency": 2503,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.474Z",
+      "ok": true,
+      "latency": 2623,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.645Z",
+      "ok": true,
+      "latency": 2914,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.709Z",
+      "ok": true,
+      "latency": 2727,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.793Z",
+      "ok": true,
+      "latency": 2919,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.485Z",
+      "ok": true,
+      "latency": 2619,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.543Z",
+      "ok": true,
+      "latency": 2653,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.967Z",
+      "ok": true,
+      "latency": 3107,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.508Z",
+      "ok": true,
+      "latency": 2699,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.663Z",
+      "ok": true,
+      "latency": 1009,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.336Z",
+      "ok": true,
+      "latency": 1047,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.552Z",
+      "ok": true,
+      "latency": 245,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.490Z",
+      "ok": true,
+      "latency": 999,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.275Z",
+      "ok": true,
+      "latency": 996,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/nvidia/audio2face-3d-jam": [
+    {
+      "time": "2026-04-16T14:14:30.145Z",
+      "ok": true,
+      "latency": 1031,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T14:25:20.791Z",
+      "ok": true,
+      "latency": 1004,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:38:13.001Z",
+      "ok": true,
+      "latency": 1003,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:07.210Z",
+      "ok": true,
+      "latency": 980,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:12.623Z",
+      "ok": true,
+      "latency": 985,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:40:12.842Z",
+      "ok": true,
+      "latency": 1198,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:46:49.734Z",
+      "ok": true,
+      "latency": 952,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:47:21.216Z",
+      "ok": true,
+      "latency": 1157,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T03:58:27.423Z",
+      "ok": true,
+      "latency": 987,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:00:09.425Z",
+      "ok": true,
+      "latency": 1158,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:23:53.290Z",
+      "ok": true,
+      "latency": 1470,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:31:34.129Z",
+      "ok": true,
+      "latency": 1281,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:32:38.586Z",
+      "ok": true,
+      "latency": 1393,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/deepseek-ai/deepseek-v3_1": [
+    {
+      "time": "2026-04-16T14:14:30.146Z",
+      "ok": true,
+      "latency": 1041,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T14:25:20.744Z",
+      "ok": true,
+      "latency": 965,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:38:13.006Z",
+      "ok": true,
+      "latency": 1013,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:07.219Z",
+      "ok": true,
+      "latency": 994,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:12.633Z",
+      "ok": true,
+      "latency": 1002,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:40:12.699Z",
+      "ok": true,
+      "latency": 1058,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:46:49.779Z",
+      "ok": true,
+      "latency": 1003,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:47:20.805Z",
+      "ok": true,
+      "latency": 755,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T03:58:26.757Z",
+      "ok": true,
+      "latency": 323,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:00:09.332Z",
+      "ok": true,
+      "latency": 1069,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:23:52.821Z",
+      "ok": true,
+      "latency": 1005,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:31:34.182Z",
+      "ok": true,
+      "latency": 1338,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:32:38.116Z",
+      "ok": true,
+      "latency": 927,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/qwen/qwen3-coder-480b-a35b-instruct": [
+    {
+      "time": "2026-04-28T23:36:40.804Z",
+      "ok": true,
+      "latency": 1154,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.100Z",
+      "ok": true,
+      "latency": 1445,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.866Z",
+      "ok": true,
+      "latency": 1071,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.668Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:00.803Z",
+      "ok": true,
+      "latency": 5355,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.749Z",
+      "ok": true,
+      "latency": 3254,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.000Z",
+      "ok": true,
+      "latency": 2485,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.491Z",
+      "ok": true,
+      "latency": 2631,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:11.737Z",
+      "ok": true,
+      "latency": 6997,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.827Z",
+      "ok": true,
+      "latency": 2837,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.900Z",
+      "ok": true,
+      "latency": 3017,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.537Z",
+      "ok": true,
+      "latency": 2663,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.703Z",
+      "ok": true,
+      "latency": 2803,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.680Z",
+      "ok": true,
+      "latency": 2813,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.531Z",
+      "ok": true,
+      "latency": 2716,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.678Z",
+      "ok": true,
+      "latency": 1017,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.436Z",
+      "ok": true,
+      "latency": 1140,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.846Z",
+      "ok": true,
+      "latency": 535,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.486Z",
+      "ok": true,
+      "latency": 985,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.300Z",
+      "ok": true,
+      "latency": 1009,
+      "inferenceTime": null
+    }
+  ],
+  "openrouter/minimax/minimax-m2.5:free": [
+    {
+      "time": "2026-04-28T23:36:40.798Z",
+      "ok": true,
+      "latency": 1164,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.048Z",
+      "ok": true,
+      "latency": 1405,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.805Z",
+      "ok": true,
+      "latency": 1025,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.394Z",
+      "ok": true,
+      "latency": 5965,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.661Z",
+      "ok": true,
+      "latency": 3179,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.638Z",
+      "ok": true,
+      "latency": 3138,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.716Z",
+      "ok": true,
+      "latency": 2872,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.237Z",
+      "ok": true,
+      "latency": 2514,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:51.075Z",
+      "ok": true,
+      "latency": 3100,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.415Z",
+      "ok": true,
+      "latency": 2548,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.506Z",
+      "ok": true,
+      "latency": 2646,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.938Z",
+      "ok": true,
+      "latency": 3055,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.798Z",
+      "ok": true,
+      "latency": 2944,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.503Z",
+      "ok": true,
+      "latency": 2699,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.637Z",
+      "ok": true,
+      "latency": 991,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.668Z",
+      "ok": true,
+      "latency": 1385,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.550Z",
+      "ok": true,
+      "latency": 247,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.486Z",
+      "ok": true,
+      "latency": 1003,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.576Z",
+      "ok": true,
+      "latency": 1307,
+      "inferenceTime": null
+    }
+  ],
+  "sumopod/seed-2-0-pro-free": [
+    {
+      "time": "2026-04-28T23:36:40.788Z",
+      "ok": true,
+      "latency": 1165,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.207Z",
+      "ok": true,
+      "latency": 1574,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.596Z",
+      "ok": true,
+      "latency": 828,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.865Z",
+      "ok": true,
+      "latency": 6452,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.615Z",
+      "ok": true,
+      "latency": 3145,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.487Z",
+      "ok": true,
+      "latency": 3001,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.463Z",
+      "ok": true,
+      "latency": 2631,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.306Z",
+      "ok": true,
+      "latency": 2598,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.729Z",
+      "ok": true,
+      "latency": 2766,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.478Z",
+      "ok": true,
+      "latency": 2621,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:51.443Z",
+      "ok": true,
+      "latency": 3595,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.550Z",
+      "ok": true,
+      "latency": 2678,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.667Z",
+      "ok": true,
+      "latency": 2825,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.494Z",
+      "ok": true,
+      "latency": 2701,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.652Z",
+      "ok": true,
+      "latency": 1018,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.322Z",
+      "ok": true,
+      "latency": 1049,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.538Z",
+      "ok": true,
+      "latency": 244,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.505Z",
+      "ok": true,
+      "latency": 1039,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.291Z",
+      "ok": true,
+      "latency": 1040,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/nvidia/llama-3_2-nemoretriever-300m-embed-v1": [
+    {
+      "time": "2026-04-16T14:14:30.160Z",
+      "ok": true,
+      "latency": 1054,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T14:25:20.798Z",
+      "ok": true,
+      "latency": 1018,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:38:12.999Z",
+      "ok": true,
+      "latency": 1004,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:07.185Z",
+      "ok": true,
+      "latency": 959,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:12.631Z",
+      "ok": true,
+      "latency": 999,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:40:12.709Z",
+      "ok": true,
+      "latency": 1067,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:46:49.802Z",
+      "ok": true,
+      "latency": 1025,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:47:21.064Z",
+      "ok": true,
+      "latency": 1010,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T03:58:26.670Z",
+      "ok": true,
+      "latency": 235,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:00:09.325Z",
+      "ok": true,
+      "latency": 1061,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:23:52.834Z",
+      "ok": true,
+      "latency": 1017,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:31:34.087Z",
+      "ok": true,
+      "latency": 1243,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:32:38.351Z",
+      "ok": true,
+      "latency": 1161,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/bytedance/seed-oss-36b-instruct": [
+    {
+      "time": "2026-04-28T23:36:40.793Z",
+      "ok": true,
+      "latency": 1144,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.059Z",
+      "ok": true,
+      "latency": 1405,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:38.118Z",
+      "ok": true,
+      "latency": 1324,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.668Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:00.804Z",
+      "ok": true,
+      "latency": 5357,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.781Z",
+      "ok": true,
+      "latency": 3287,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.236Z",
+      "ok": true,
+      "latency": 2723,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.432Z",
+      "ok": true,
+      "latency": 2575,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.341Z",
+      "ok": true,
+      "latency": 2603,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.852Z",
+      "ok": true,
+      "latency": 2864,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.559Z",
+      "ok": true,
+      "latency": 2677,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.482Z",
+      "ok": true,
+      "latency": 2609,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.355Z",
+      "ok": true,
+      "latency": 2456,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.660Z",
+      "ok": true,
+      "latency": 2794,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.484Z",
+      "ok": true,
+      "latency": 2669,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.619Z",
+      "ok": true,
+      "latency": 959,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.369Z",
+      "ok": true,
+      "latency": 1074,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.562Z",
+      "ok": true,
+      "latency": 252,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.729Z",
+      "ok": true,
+      "latency": 1229,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.278Z",
+      "ok": true,
+      "latency": 989,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/deepseek-ai/deepseek-v3_1-terminus": [
+    {
+      "time": "2026-04-16T14:14:30.162Z",
+      "ok": true,
+      "latency": 1062,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T14:25:21.022Z",
+      "ok": true,
+      "latency": 1249,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:38:12.973Z",
+      "ok": true,
+      "latency": 985,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:07.283Z",
+      "ok": true,
+      "latency": 1065,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:12.610Z",
+      "ok": true,
+      "latency": 985,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:40:12.695Z",
+      "ok": true,
+      "latency": 1058,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:46:49.776Z",
+      "ok": true,
+      "latency": 1008,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:47:21.140Z",
+      "ok": true,
+      "latency": 1096,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T03:58:26.692Z",
+      "ok": true,
+      "latency": 262,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:00:09.300Z",
+      "ok": true,
+      "latency": 1041,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:23:52.927Z",
+      "ok": true,
+      "latency": 1117,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:31:34.226Z",
+      "ok": true,
+      "latency": 1386,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:32:38.123Z",
+      "ok": true,
+      "latency": 940,
+      "inferenceTime": null
+    }
+  ],
+  "openrouter/cognitivecomputations/dolphin-mistral-24b-venice-edition:free": [
+    {
+      "time": "2026-04-28T23:36:40.788Z",
+      "ok": true,
+      "latency": 1148,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.091Z",
+      "ok": true,
+      "latency": 1444,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:38.425Z",
+      "ok": true,
+      "latency": 1641,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.099Z",
+      "ok": true,
+      "latency": 5666,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.624Z",
+      "ok": true,
+      "latency": 3138,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.617Z",
+      "ok": true,
+      "latency": 3112,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.473Z",
+      "ok": true,
+      "latency": 2625,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.442Z",
+      "ok": true,
+      "latency": 2714,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.676Z",
+      "ok": true,
+      "latency": 2698,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.564Z",
+      "ok": true,
+      "latency": 2692,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:51.452Z",
+      "ok": true,
+      "latency": 3588,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.476Z",
+      "ok": true,
+      "latency": 2589,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.656Z",
+      "ok": true,
+      "latency": 2798,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.714Z",
+      "ok": true,
+      "latency": 2906,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.672Z",
+      "ok": true,
+      "latency": 1021,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.723Z",
+      "ok": true,
+      "latency": 1436,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.548Z",
+      "ok": true,
+      "latency": 243,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.460Z",
+      "ok": true,
+      "latency": 973,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.313Z",
+      "ok": true,
+      "latency": 1036,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/moonshotai/kimi-k2-thinking": [
+    {
+      "time": "2026-04-28T23:36:40.766Z",
+      "ok": true,
+      "latency": 1119,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.086Z",
+      "ok": true,
+      "latency": 1434,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.822Z",
+      "ok": true,
+      "latency": 1030,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:00.798Z",
+      "ok": true,
+      "latency": 5354,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.650Z",
+      "ok": true,
+      "latency": 3158,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:01.999Z",
+      "ok": true,
+      "latency": 2488,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.513Z",
+      "ok": true,
+      "latency": 2658,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.185Z",
+      "ok": true,
+      "latency": 2450,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.743Z",
+      "ok": true,
+      "latency": 2758,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.554Z",
+      "ok": true,
+      "latency": 2674,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.505Z",
+      "ok": true,
+      "latency": 2635,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.452Z",
+      "ok": true,
+      "latency": 2556,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.669Z",
+      "ok": true,
+      "latency": 2805,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.473Z",
+      "ok": true,
+      "latency": 2660,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.664Z",
+      "ok": true,
+      "latency": 1007,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.440Z",
+      "ok": true,
+      "latency": 1148,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.546Z",
+      "ok": true,
+      "latency": 237,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.505Z",
+      "ok": true,
+      "latency": 1009,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.017Z",
+      "ok": true,
+      "latency": 731,
+      "inferenceTime": null
+    }
+  ],
+  "sumopod/seed-2-0-mini-free": [
+    {
+      "time": "2026-04-28T23:36:41.095Z",
+      "ok": true,
+      "latency": 1471,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.018Z",
+      "ok": true,
+      "latency": 1384,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.834Z",
+      "ok": true,
+      "latency": 1065,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:00.802Z",
+      "ok": true,
+      "latency": 5388,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.633Z",
+      "ok": true,
+      "latency": 3162,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:03.469Z",
+      "ok": true,
+      "latency": 3981,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.443Z",
+      "ok": true,
+      "latency": 2610,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:11.681Z",
+      "ok": true,
+      "latency": 6971,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.771Z",
+      "ok": true,
+      "latency": 2807,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.477Z",
+      "ok": true,
+      "latency": 2619,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.504Z",
+      "ok": true,
+      "latency": 2655,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.526Z",
+      "ok": true,
+      "latency": 2653,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.656Z",
+      "ok": true,
+      "latency": 2812,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.495Z",
+      "ok": true,
+      "latency": 2701,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.734Z",
+      "ok": true,
+      "latency": 1100,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.287Z",
+      "ok": true,
+      "latency": 1013,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.534Z",
+      "ok": true,
+      "latency": 239,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.480Z",
+      "ok": true,
+      "latency": 1013,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.274Z",
+      "ok": true,
+      "latency": 1020,
+      "inferenceTime": null
+    }
+  ],
+  "custom-apis-iflow-cn/qwen3-max": [
+    {
+      "time": "2026-04-28T23:36:40.774Z",
+      "ok": true,
+      "latency": 1157,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.040Z",
+      "ok": true,
+      "latency": 1415,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.875Z",
+      "ok": true,
+      "latency": 1116,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.663Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:00.813Z",
+      "ok": true,
+      "latency": 5410,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.654Z",
+      "ok": true,
+      "latency": 3193,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.640Z",
+      "ok": true,
+      "latency": 3162,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.451Z",
+      "ok": true,
+      "latency": 2631,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.490Z",
+      "ok": true,
+      "latency": 2792,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.679Z",
+      "ok": true,
+      "latency": 2723,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.512Z",
+      "ok": true,
+      "latency": 2662,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.467Z",
+      "ok": true,
+      "latency": 2627,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.521Z",
+      "ok": true,
+      "latency": 2656,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.657Z",
+      "ok": true,
+      "latency": 2825,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.631Z",
+      "ok": true,
+      "latency": 2847,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.677Z",
+      "ok": true,
+      "latency": 1050,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.319Z",
+      "ok": true,
+      "latency": 1055,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.728Z",
+      "ok": true,
+      "latency": 439,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.488Z",
+      "ok": true,
+      "latency": 1033,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.288Z",
+      "ok": true,
+      "latency": 1044,
+      "inferenceTime": null
+    }
+  ],
+  "openrouter/nousresearch/hermes-3-llama-3.1-405b:free": [
+    {
+      "time": "2026-04-28T23:36:40.760Z",
+      "ok": true,
+      "latency": 1119,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.064Z",
+      "ok": true,
+      "latency": 1417,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.865Z",
+      "ok": true,
+      "latency": 1079,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.263Z",
+      "ok": true,
+      "latency": 6829,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.655Z",
+      "ok": true,
+      "latency": 3168,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.816Z",
+      "ok": true,
+      "latency": 3310,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.425Z",
+      "ok": true,
+      "latency": 2576,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.326Z",
+      "ok": true,
+      "latency": 2596,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.729Z",
+      "ok": true,
+      "latency": 2749,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.084Z",
+      "ok": true,
+      "latency": 2211,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.490Z",
+      "ok": true,
+      "latency": 2625,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.569Z",
+      "ok": true,
+      "latency": 2680,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.677Z",
+      "ok": true,
+      "latency": 2818,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.462Z",
+      "ok": true,
+      "latency": 2653,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.855Z",
+      "ok": true,
+      "latency": 1202,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.446Z",
+      "ok": true,
+      "latency": 1157,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.545Z",
+      "ok": true,
+      "latency": 239,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.480Z",
+      "ok": true,
+      "latency": 991,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.308Z",
+      "ok": true,
+      "latency": 1030,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/z-ai/glm4_7": [
+    {
+      "time": "2026-04-16T14:14:30.277Z",
+      "ok": true,
+      "latency": 1183,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T14:25:20.738Z",
+      "ok": true,
+      "latency": 974,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:38:12.999Z",
+      "ok": true,
+      "latency": 1018,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:07.218Z",
+      "ok": true,
+      "latency": 1006,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:12.626Z",
+      "ok": true,
+      "latency": 1006,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:40:12.708Z",
+      "ok": true,
+      "latency": 1078,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:46:49.778Z",
+      "ok": true,
+      "latency": 1019,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:47:21.336Z",
+      "ok": true,
+      "latency": 1305,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T03:58:26.665Z",
+      "ok": true,
+      "latency": 238,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:00:09.332Z",
+      "ok": true,
+      "latency": 1079,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:23:52.827Z",
+      "ok": true,
+      "latency": 1022,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:31:33.961Z",
+      "ok": true,
+      "latency": 1126,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:32:38.351Z",
+      "ok": true,
+      "latency": 1174,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/deepseek-ai/deepseek-v3_2": [
+    {
+      "time": "2026-04-16T14:14:30.287Z",
+      "ok": true,
+      "latency": 1192,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T14:25:20.760Z",
+      "ok": true,
+      "latency": 994,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:38:13.087Z",
+      "ok": true,
+      "latency": 1105,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:07.647Z",
+      "ok": true,
+      "latency": 1434,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:11.866Z",
+      "ok": true,
+      "latency": 245,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:40:12.695Z",
+      "ok": true,
+      "latency": 1062,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:46:49.795Z",
+      "ok": true,
+      "latency": 1035,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:47:21.091Z",
+      "ok": true,
+      "latency": 1058,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T03:58:26.753Z",
+      "ok": true,
+      "latency": 325,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:00:09.456Z",
+      "ok": true,
+      "latency": 1202,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:23:52.853Z",
+      "ok": true,
+      "latency": 1047,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:31:33.965Z",
+      "ok": true,
+      "latency": 1129,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:32:38.085Z",
+      "ok": true,
+      "latency": 906,
+      "inferenceTime": null
+    }
+  ],
+  "custom-ai-semutssh-com/claude-sonnet-4-6": [
+    {
+      "time": "2026-04-28T23:36:40.785Z",
+      "ok": true,
+      "latency": 1167,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.066Z",
+      "ok": true,
+      "latency": 1440,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.831Z",
+      "ok": true,
+      "latency": 1071,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.663Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:19:56.507Z",
+      "ok": true,
+      "latency": 1101,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.689Z",
+      "ok": true,
+      "latency": 3227,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.140Z",
+      "ok": true,
+      "latency": 2661,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.390Z",
+      "ok": true,
+      "latency": 2569,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.291Z",
+      "ok": true,
+      "latency": 2591,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.777Z",
+      "ok": true,
+      "latency": 2820,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.580Z",
+      "ok": true,
+      "latency": 2729,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.619Z",
+      "ok": true,
+      "latency": 2778,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.559Z",
+      "ok": true,
+      "latency": 2694,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.649Z",
+      "ok": true,
+      "latency": 2815,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.493Z",
+      "ok": true,
+      "latency": 2708,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.641Z",
+      "ok": true,
+      "latency": 1013,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.329Z",
+      "ok": true,
+      "latency": 1064,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.554Z",
+      "ok": true,
+      "latency": 264,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.498Z",
+      "ok": true,
+      "latency": 1041,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.278Z",
+      "ok": true,
+      "latency": 1033,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/stepfun-ai/step-3.5-flash": [
+    {
+      "time": "2026-04-28T23:36:40.801Z",
+      "ok": true,
+      "latency": 1158,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.066Z",
+      "ok": true,
+      "latency": 1416,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.616Z",
+      "ok": true,
+      "latency": 827,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.523Z",
+      "ok": true,
+      "latency": 7082,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.656Z",
+      "ok": true,
+      "latency": 3166,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.701Z",
+      "ok": true,
+      "latency": 3193,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.511Z",
+      "ok": true,
+      "latency": 2659,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.476Z",
+      "ok": true,
+      "latency": 2743,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.738Z",
+      "ok": true,
+      "latency": 2755,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.502Z",
+      "ok": true,
+      "latency": 2626,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.510Z",
+      "ok": true,
+      "latency": 2643,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.168Z",
+      "ok": true,
+      "latency": 2277,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:53.066Z",
+      "ok": true,
+      "latency": 3205,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.492Z",
+      "ok": true,
+      "latency": 2682,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.624Z",
+      "ok": true,
+      "latency": 969,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.342Z",
+      "ok": true,
+      "latency": 1052,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.550Z",
+      "ok": true,
+      "latency": 242,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.488Z",
+      "ok": true,
+      "latency": 995,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.273Z",
+      "ok": true,
+      "latency": 991,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/nvidia/riva-translate-4b-instruct-v1_1": [
+    {
+      "time": "2026-04-16T14:14:30.329Z",
+      "ok": true,
+      "latency": 1230,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T14:25:20.780Z",
+      "ok": true,
+      "latency": 1008,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:38:12.971Z",
+      "ok": true,
+      "latency": 985,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:07.179Z",
+      "ok": true,
+      "latency": 962,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:12.616Z",
+      "ok": true,
+      "latency": 992,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:40:12.659Z",
+      "ok": true,
+      "latency": 1023,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:46:49.757Z",
+      "ok": true,
+      "latency": 990,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:47:20.844Z",
+      "ok": true,
+      "latency": 804,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T03:58:26.676Z",
+      "ok": true,
+      "latency": 246,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:00:09.452Z",
+      "ok": true,
+      "latency": 1194,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:23:52.839Z",
+      "ok": true,
+      "latency": 1030,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:31:33.994Z",
+      "ok": true,
+      "latency": 1155,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:32:38.356Z",
+      "ok": true,
+      "latency": 1174,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/mistralai/devstral-2-123b-instruct-2512": [
+    {
+      "time": "2026-04-28T23:36:40.777Z",
+      "ok": true,
+      "latency": 1132,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.093Z",
+      "ok": true,
+      "latency": 1442,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.846Z",
+      "ok": true,
+      "latency": 1055,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.354Z",
+      "ok": true,
+      "latency": 6911,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.712Z",
+      "ok": true,
+      "latency": 3221,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.714Z",
+      "ok": true,
+      "latency": 3204,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.509Z",
+      "ok": true,
+      "latency": 2656,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.274Z",
+      "ok": true,
+      "latency": 2540,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.703Z",
+      "ok": true,
+      "latency": 2719,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.587Z",
+      "ok": true,
+      "latency": 2710,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.495Z",
+      "ok": true,
+      "latency": 2627,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.755Z",
+      "ok": true,
+      "latency": 2863,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.674Z",
+      "ok": true,
+      "latency": 2812,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.516Z",
+      "ok": true,
+      "latency": 2704,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.667Z",
+      "ok": true,
+      "latency": 1011,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.435Z",
+      "ok": true,
+      "latency": 1144,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.554Z",
+      "ok": true,
+      "latency": 246,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.502Z",
+      "ok": true,
+      "latency": 1007,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.013Z",
+      "ok": true,
+      "latency": 729,
+      "inferenceTime": null
+    }
+  ],
+  "custom-apis-iflow-cn/deepseek-v3-671b": [
+    {
+      "time": "2026-04-28T23:36:40.774Z",
+      "ok": true,
+      "latency": 1165,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.054Z",
+      "ok": true,
+      "latency": 1437,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.765Z",
+      "ok": true,
+      "latency": 1015,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.660Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.088Z",
+      "ok": true,
+      "latency": 5706,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.626Z",
+      "ok": true,
+      "latency": 3190,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.574Z",
+      "ok": true,
+      "latency": 3105,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.441Z",
+      "ok": true,
+      "latency": 2647,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.219Z",
+      "ok": true,
+      "latency": 2532,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.681Z",
+      "ok": true,
+      "latency": 2733,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.600Z",
+      "ok": true,
+      "latency": 2762,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.506Z",
+      "ok": true,
+      "latency": 2676,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.750Z",
+      "ok": true,
+      "latency": 2899,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.610Z",
+      "ok": true,
+      "latency": 2804,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.498Z",
+      "ok": true,
+      "latency": 2739,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.630Z",
+      "ok": true,
+      "latency": 1015,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.540Z",
+      "ok": true,
+      "latency": 1301,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.527Z",
+      "ok": true,
+      "latency": 244,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.463Z",
+      "ok": true,
+      "latency": 1017,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.281Z",
+      "ok": true,
+      "latency": 1049,
+      "inferenceTime": null
+    }
+  ],
+  "openrouter/arcee-ai/trinity-large-preview:free": [
+    {
+      "time": "2026-04-28T23:36:40.801Z",
+      "ok": true,
+      "latency": 1168,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.023Z",
+      "ok": true,
+      "latency": 1381,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.810Z",
+      "ok": true,
+      "latency": 1032,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:00.809Z",
+      "ok": true,
+      "latency": 5381,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.651Z",
+      "ok": true,
+      "latency": 3170,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:01.986Z",
+      "ok": true,
+      "latency": 2488,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.481Z",
+      "ok": true,
+      "latency": 2640,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.273Z",
+      "ok": true,
+      "latency": 2552,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.778Z",
+      "ok": true,
+      "latency": 2805,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.589Z",
+      "ok": true,
+      "latency": 2723,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.530Z",
+      "ok": true,
+      "latency": 2672,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.913Z",
+      "ok": true,
+      "latency": 3032,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.709Z",
+      "ok": true,
+      "latency": 2857,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.503Z",
+      "ok": true,
+      "latency": 2701,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.826Z",
+      "ok": true,
+      "latency": 1183,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.578Z",
+      "ok": true,
+      "latency": 1296,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.611Z",
+      "ok": true,
+      "latency": 310,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.458Z",
+      "ok": true,
+      "latency": 980,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.286Z",
+      "ok": true,
+      "latency": 1020,
+      "inferenceTime": null
+    }
+  ],
+  "openrouter/qwen/qwen3-coder:free": [
+    {
+      "time": "2026-04-28T23:36:40.791Z",
+      "ok": true,
+      "latency": 1151,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.090Z",
+      "ok": true,
+      "latency": 1444,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.838Z",
+      "ok": true,
+      "latency": 1055,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.933Z",
+      "ok": true,
+      "latency": 6501,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.647Z",
+      "ok": true,
+      "latency": 3162,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.774Z",
+      "ok": true,
+      "latency": 3271,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.490Z",
+      "ok": true,
+      "latency": 2643,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.440Z",
+      "ok": true,
+      "latency": 2713,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.736Z",
+      "ok": true,
+      "latency": 2758,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.547Z",
+      "ok": true,
+      "latency": 2677,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.689Z",
+      "ok": true,
+      "latency": 2826,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.557Z",
+      "ok": true,
+      "latency": 2671,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.834Z",
+      "ok": true,
+      "latency": 2977,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.472Z",
+      "ok": true,
+      "latency": 2665,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.675Z",
+      "ok": true,
+      "latency": 1025,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.351Z",
+      "ok": true,
+      "latency": 1065,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.563Z",
+      "ok": true,
+      "latency": 259,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.510Z",
+      "ok": true,
+      "latency": 1024,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.312Z",
+      "ok": true,
+      "latency": 1037,
+      "inferenceTime": null
+    }
+  ],
+  "custom-ai-semutssh-com/gemini-3.1-pro-preview": [
+    {
+      "time": "2026-04-28T23:36:40.750Z",
+      "ok": true,
+      "latency": 1131,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.035Z",
+      "ok": true,
+      "latency": 1407,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.582Z",
+      "ok": true,
+      "latency": 818,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:00.802Z",
+      "ok": true,
+      "latency": 5393,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.643Z",
+      "ok": true,
+      "latency": 3177,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.641Z",
+      "ok": true,
+      "latency": 3159,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.675Z",
+      "ok": true,
+      "latency": 2849,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.339Z",
+      "ok": true,
+      "latency": 2636,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.758Z",
+      "ok": true,
+      "latency": 2798,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.457Z",
+      "ok": true,
+      "latency": 2605,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.625Z",
+      "ok": true,
+      "latency": 2782,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.534Z",
+      "ok": true,
+      "latency": 2667,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.773Z",
+      "ok": true,
+      "latency": 2936,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.493Z",
+      "ok": true,
+      "latency": 2705,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.638Z",
+      "ok": true,
+      "latency": 1008,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.351Z",
+      "ok": true,
+      "latency": 1082,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.647Z",
+      "ok": true,
+      "latency": 356,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.497Z",
+      "ok": true,
+      "latency": 1037,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.289Z",
+      "ok": true,
+      "latency": 1042,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/nvidia/audio2face-3d-claire-notongue": [
+    {
+      "time": "2026-04-16T14:14:30.459Z",
+      "ok": true,
+      "latency": 1351,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T14:25:20.781Z",
+      "ok": true,
+      "latency": 997,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:38:13.257Z",
+      "ok": true,
+      "latency": 1261,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:07.616Z",
+      "ok": true,
+      "latency": 1389,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:11.917Z",
+      "ok": true,
+      "latency": 282,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:40:13.018Z",
+      "ok": true,
+      "latency": 1375,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:46:49.757Z",
+      "ok": true,
+      "latency": 979,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:47:21.101Z",
+      "ok": true,
+      "latency": 1045,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T03:58:26.681Z",
+      "ok": true,
+      "latency": 246,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:00:09.336Z",
+      "ok": true,
+      "latency": 1071,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:23:52.841Z",
+      "ok": true,
+      "latency": 1023,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:31:33.999Z",
+      "ok": true,
+      "latency": 1153,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:32:38.499Z",
+      "ok": true,
+      "latency": 1308,
+      "inferenceTime": null
+    }
+  ],
+  "sumopod/minimax/speech-2.8-hd": [
+    {
+      "time": "2026-04-28T23:36:40.787Z",
+      "ok": true,
+      "latency": 1160,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.088Z",
+      "ok": true,
+      "latency": 1451,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.592Z",
+      "ok": true,
+      "latency": 819,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.933Z",
+      "ok": true,
+      "latency": 6510,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.638Z",
+      "ok": true,
+      "latency": 3164,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.571Z",
+      "ok": true,
+      "latency": 3080,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.453Z",
+      "ok": true,
+      "latency": 2617,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.271Z",
+      "ok": true,
+      "latency": 2557,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:51.034Z",
+      "ok": true,
+      "latency": 3066,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.533Z",
+      "ok": true,
+      "latency": 2673,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.581Z",
+      "ok": true,
+      "latency": 2729,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.129Z",
+      "ok": true,
+      "latency": 2253,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.968Z",
+      "ok": true,
+      "latency": 3122,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.477Z",
+      "ok": true,
+      "latency": 2680,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.636Z",
+      "ok": true,
+      "latency": 999,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.330Z",
+      "ok": true,
+      "latency": 1053,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.542Z",
+      "ok": true,
+      "latency": 243,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.789Z",
+      "ok": true,
+      "latency": 1317,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.312Z",
+      "ok": true,
+      "latency": 1054,
+      "inferenceTime": null
+    }
+  ],
+  "custom-apis-iflow-cn/deepseek-v3-2-exp": [
+    {
+      "time": "2026-04-28T23:36:40.736Z",
+      "ok": true,
+      "latency": 1125,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.008Z",
+      "ok": true,
+      "latency": 1389,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.734Z",
+      "ok": true,
+      "latency": 982,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.660Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.045Z",
+      "ok": true,
+      "latency": 6658,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.642Z",
+      "ok": true,
+      "latency": 3190,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.469Z",
+      "ok": true,
+      "latency": 2998,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.426Z",
+      "ok": true,
+      "latency": 2615,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.331Z",
+      "ok": true,
+      "latency": 2642,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.805Z",
+      "ok": true,
+      "latency": 2856,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.462Z",
+      "ok": true,
+      "latency": 2620,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.498Z",
+      "ok": true,
+      "latency": 2665,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.439Z",
+      "ok": true,
+      "latency": 2584,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.634Z",
+      "ok": true,
+      "latency": 2811,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.500Z",
+      "ok": true,
+      "latency": 2725,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:05.323Z",
+      "ok": true,
+      "latency": 1704,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.516Z",
+      "ok": true,
+      "latency": 1261,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.524Z",
+      "ok": true,
+      "latency": 240,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.841Z",
+      "ok": true,
+      "latency": 1394,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.506Z",
+      "ok": true,
+      "latency": 1272,
+      "inferenceTime": null
+    }
+  ],
+  "custom-ai-semutssh-com/minimax-m2.5": [
+    {
+      "time": "2026-04-28T23:36:40.793Z",
+      "ok": true,
+      "latency": 1171,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.047Z",
+      "ok": true,
+      "latency": 1417,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.822Z",
+      "ok": true,
+      "latency": 1055,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.368Z",
+      "ok": true,
+      "latency": 6956,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.718Z",
+      "ok": true,
+      "latency": 3249,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.538Z",
+      "ok": true,
+      "latency": 3052,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.663Z",
+      "ok": true,
+      "latency": 2832,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.188Z",
+      "ok": true,
+      "latency": 2481,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.768Z",
+      "ok": true,
+      "latency": 2806,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.549Z",
+      "ok": true,
+      "latency": 2693,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.484Z",
+      "ok": true,
+      "latency": 2638,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.502Z",
+      "ok": true,
+      "latency": 2632,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.655Z",
+      "ok": true,
+      "latency": 2814,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.468Z",
+      "ok": true,
+      "latency": 2676,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.656Z",
+      "ok": true,
+      "latency": 1024,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.451Z",
+      "ok": true,
+      "latency": 1179,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.553Z",
+      "ok": true,
+      "latency": 260,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.525Z",
+      "ok": true,
+      "latency": 1061,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.272Z",
+      "ok": true,
+      "latency": 1022,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/nvidia/audio2face-3d-james-notongue": [
+    {
+      "time": "2026-04-16T14:14:30.679Z",
+      "ok": true,
+      "latency": 1570,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T14:25:21.609Z",
+      "ok": true,
+      "latency": 1824,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:38:13.009Z",
+      "ok": true,
+      "latency": 1012,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:07.215Z",
+      "ok": true,
+      "latency": 987,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:39:12.589Z",
+      "ok": true,
+      "latency": 953,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:40:12.668Z",
+      "ok": true,
+      "latency": 1025,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:46:49.824Z",
+      "ok": true,
+      "latency": 1045,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-16T23:47:21.053Z",
+      "ok": true,
+      "latency": 996,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T03:58:26.677Z",
+      "ok": true,
+      "latency": 241,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:00:09.448Z",
+      "ok": true,
+      "latency": 1182,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:23:52.806Z",
+      "ok": true,
+      "latency": 987,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:31:33.987Z",
+      "ok": true,
+      "latency": 1140,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-17T04:32:38.525Z",
+      "ok": true,
+      "latency": 1333,
+      "inferenceTime": null
+    }
+  ],
+  "custom-apis-iflow-cn/iflow-rome": [
+    {
+      "time": "2026-04-28T23:36:40.747Z",
+      "ok": true,
+      "latency": 1134,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.039Z",
+      "ok": true,
+      "latency": 1417,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.823Z",
+      "ok": true,
+      "latency": 1069,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.660Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.843Z",
+      "ok": true,
+      "latency": 6451,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.629Z",
+      "ok": true,
+      "latency": 3173,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:01.985Z",
+      "ok": true,
+      "latency": 2512,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.477Z",
+      "ok": true,
+      "latency": 2663,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.225Z",
+      "ok": true,
+      "latency": 2533,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.837Z",
+      "ok": true,
+      "latency": 2884,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.560Z",
+      "ok": true,
+      "latency": 2716,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.440Z",
+      "ok": true,
+      "latency": 2605,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.768Z",
+      "ok": true,
+      "latency": 2909,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.634Z",
+      "ok": true,
+      "latency": 2809,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.445Z",
+      "ok": true,
+      "latency": 2667,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.674Z",
+      "ok": true,
+      "latency": 1053,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.289Z",
+      "ok": true,
+      "latency": 1030,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.523Z",
+      "ok": true,
+      "latency": 236,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.459Z",
+      "ok": true,
+      "latency": 1009,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.307Z",
+      "ok": true,
+      "latency": 1068,
+      "inferenceTime": null
+    }
+  ],
+  "custom-apis-iflow-cn/qwen3-coder-plus": [
+    {
+      "time": "2026-04-28T23:36:40.792Z",
+      "ok": true,
+      "latency": 1177,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.077Z",
+      "ok": true,
+      "latency": 1454,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.586Z",
+      "ok": true,
+      "latency": 829,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.663Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.591Z",
+      "ok": true,
+      "latency": 7193,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.682Z",
+      "ok": true,
+      "latency": 3224,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.638Z",
+      "ok": true,
+      "latency": 3162,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.500Z",
+      "ok": true,
+      "latency": 2682,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.224Z",
+      "ok": true,
+      "latency": 2528,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.679Z",
+      "ok": true,
+      "latency": 2724,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.483Z",
+      "ok": true,
+      "latency": 2637,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.487Z",
+      "ok": true,
+      "latency": 2650,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.619Z",
+      "ok": true,
+      "latency": 2758,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.653Z",
+      "ok": true,
+      "latency": 2824,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.498Z",
+      "ok": true,
+      "latency": 2717,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.865Z",
+      "ok": true,
+      "latency": 1241,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.289Z",
+      "ok": true,
+      "latency": 1027,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.524Z",
+      "ok": true,
+      "latency": 236,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.774Z",
+      "ok": true,
+      "latency": 1321,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.271Z",
+      "ok": true,
+      "latency": 1030,
+      "inferenceTime": null
+    }
+  ],
+  "sumopod/mimo-v2-omni": [
+    {
+      "time": "2026-04-28T23:36:40.792Z",
+      "ok": true,
+      "latency": 1167,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:21.999Z",
+      "ok": true,
+      "latency": 1364,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.828Z",
+      "ok": true,
+      "latency": 1058,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.664Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.029Z",
+      "ok": true,
+      "latency": 6614,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.623Z",
+      "ok": true,
+      "latency": 3151,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:01.987Z",
+      "ok": true,
+      "latency": 2498,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.504Z",
+      "ok": true,
+      "latency": 2670,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.201Z",
+      "ok": true,
+      "latency": 2489,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.846Z",
+      "ok": true,
+      "latency": 2880,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.460Z",
+      "ok": true,
+      "latency": 2601,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.459Z",
+      "ok": true,
+      "latency": 2609,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.466Z",
+      "ok": true,
+      "latency": 2592,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.652Z",
+      "ok": true,
+      "latency": 2808,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.494Z",
+      "ok": true,
+      "latency": 2699,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.632Z",
+      "ok": true,
+      "latency": 997,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.330Z",
+      "ok": true,
+      "latency": 1055,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.541Z",
+      "ok": true,
+      "latency": 245,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.511Z",
+      "ok": true,
+      "latency": 1042,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.253Z",
+      "ok": true,
+      "latency": 998,
+      "inferenceTime": null
+    }
+  ],
+  "openrouter/openai/gpt-oss-120b:free": [
+    {
+      "time": "2026-04-28T23:36:40.784Z",
+      "ok": true,
+      "latency": 1149,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.003Z",
+      "ok": true,
+      "latency": 1359,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.810Z",
+      "ok": true,
+      "latency": 1029,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.395Z",
+      "ok": true,
+      "latency": 5965,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.688Z",
+      "ok": true,
+      "latency": 3205,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.729Z",
+      "ok": true,
+      "latency": 3228,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.449Z",
+      "ok": true,
+      "latency": 2604,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.443Z",
+      "ok": true,
+      "latency": 2718,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.849Z",
+      "ok": true,
+      "latency": 2873,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.507Z",
+      "ok": true,
+      "latency": 2639,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.496Z",
+      "ok": true,
+      "latency": 2636,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.508Z",
+      "ok": true,
+      "latency": 2624,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.807Z",
+      "ok": true,
+      "latency": 2952,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.501Z",
+      "ok": true,
+      "latency": 2696,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.664Z",
+      "ok": true,
+      "latency": 1017,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.494Z",
+      "ok": true,
+      "latency": 1210,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.551Z",
+      "ok": true,
+      "latency": 248,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.493Z",
+      "ok": true,
+      "latency": 1009,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.859Z",
+      "ok": true,
+      "latency": 1589,
+      "inferenceTime": null
+    }
+  ],
+  "openrouter/google/gemma-4-31b-it:free": [
+    {
+      "time": "2026-04-28T23:36:40.753Z",
+      "ok": true,
+      "latency": 1114,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:21.999Z",
+      "ok": true,
+      "latency": 1354,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.916Z",
+      "ok": true,
+      "latency": 1134,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.667Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:01.927Z",
+      "ok": true,
+      "latency": 6496,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.708Z",
+      "ok": true,
+      "latency": 3224,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:01.987Z",
+      "ok": true,
+      "latency": 2485,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.599Z",
+      "ok": true,
+      "latency": 2753,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.209Z",
+      "ok": true,
+      "latency": 2483,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.750Z",
+      "ok": true,
+      "latency": 2773,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.404Z",
+      "ok": true,
+      "latency": 2534,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.465Z",
+      "ok": true,
+      "latency": 2604,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.141Z",
+      "ok": true,
+      "latency": 2256,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.687Z",
+      "ok": true,
+      "latency": 2831,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.499Z",
+      "ok": true,
+      "latency": 2693,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.621Z",
+      "ok": true,
+      "latency": 973,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.308Z",
+      "ok": true,
+      "latency": 1023,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.543Z",
+      "ok": true,
+      "latency": 239,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.778Z",
+      "ok": true,
+      "latency": 1293,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.255Z",
+      "ok": true,
+      "latency": 981,
+      "inferenceTime": null
+    }
+  ],
+  "zai/glm-5.1": [
+    {
+      "time": "2026-04-28T23:36:40.801Z",
+      "ok": true,
+      "latency": 1145,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.052Z",
+      "ok": true,
+      "latency": 1392,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.816Z",
+      "ok": true,
+      "latency": 1016,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.668Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.209Z",
+      "ok": true,
+      "latency": 6756,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.797Z",
+      "ok": true,
+      "latency": 3298,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.001Z",
+      "ok": true,
+      "latency": 2478,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.484Z",
+      "ok": true,
+      "latency": 2618,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.221Z",
+      "ok": true,
+      "latency": 2475,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.848Z",
+      "ok": true,
+      "latency": 2854,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.527Z",
+      "ok": true,
+      "latency": 2635,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.547Z",
+      "ok": true,
+      "latency": 2668,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.487Z",
+      "ok": true,
+      "latency": 2582,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.707Z",
+      "ok": true,
+      "latency": 2835,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.515Z",
+      "ok": true,
+      "latency": 2694,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.639Z",
+      "ok": true,
+      "latency": 971,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.350Z",
+      "ok": true,
+      "latency": 1048,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.566Z",
+      "ok": true,
+      "latency": 253,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.656Z",
+      "ok": true,
+      "latency": 1148,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.292Z",
+      "ok": true,
+      "latency": 994,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/nvidia/riva-translate-4b-instruct-v1.1": [
+    {
+      "time": "2026-04-28T23:36:40.794Z",
+      "ok": true,
+      "latency": 1140,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.085Z",
+      "ok": true,
+      "latency": 1427,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.582Z",
+      "ok": true,
+      "latency": 784,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.668Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:04.385Z",
+      "ok": true,
+      "latency": 8934,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.658Z",
+      "ok": true,
+      "latency": 3161,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:01.994Z",
+      "ok": true,
+      "latency": 2473,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.589Z",
+      "ok": true,
+      "latency": 2725,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.346Z",
+      "ok": true,
+      "latency": 2603,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.707Z",
+      "ok": true,
+      "latency": 2715,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.787Z",
+      "ok": true,
+      "latency": 2899,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.485Z",
+      "ok": true,
+      "latency": 2608,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.562Z",
+      "ok": true,
+      "latency": 2660,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.712Z",
+      "ok": true,
+      "latency": 2842,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.482Z",
+      "ok": true,
+      "latency": 2663,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.669Z",
+      "ok": true,
+      "latency": 1004,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.354Z",
+      "ok": true,
+      "latency": 1054,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.557Z",
+      "ok": true,
+      "latency": 245,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.525Z",
+      "ok": true,
+      "latency": 1019,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.279Z",
+      "ok": true,
+      "latency": 984,
+      "inferenceTime": null
+    }
+  ],
+  "sumopod/minimax-m2.7-highspeed": [
+    {
+      "time": "2026-04-27T14:31:41.737Z",
+      "ok": true,
+      "latency": 983,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-27T14:32:41.772Z",
+      "ok": true,
+      "latency": 1160,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-27T14:33:50.622Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:29:09.167Z",
+      "ok": true,
+      "latency": 1013,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:29:26.147Z",
+      "ok": true,
+      "latency": 989,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:29:34.621Z",
+      "ok": true,
+      "latency": 750,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:29:35.766Z",
+      "ok": true,
+      "latency": 246,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:29:36.448Z",
+      "ok": true,
+      "latency": 247,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:29:37.152Z",
+      "ok": true,
+      "latency": 247,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:30:26.714Z",
+      "ok": true,
+      "latency": 995,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:31:26.762Z",
+      "ok": true,
+      "latency": 976,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:32:26.705Z",
+      "ok": true,
+      "latency": 959,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:33:26.739Z",
+      "ok": true,
+      "latency": 1004,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:34:26.693Z",
+      "ok": true,
+      "latency": 945,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:35:26.760Z",
+      "ok": true,
+      "latency": 1026,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:36:40.779Z",
+      "ok": true,
+      "latency": 1122,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.014Z",
+      "ok": true,
+      "latency": 1353,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.848Z",
+      "ok": true,
+      "latency": 1047,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.668Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.114Z",
+      "ok": true,
+      "latency": 6660,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/deepseek-ai/deepseek-v3.2": [
+    {
+      "time": "2026-04-28T23:36:40.797Z",
+      "ok": true,
+      "latency": 1144,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.024Z",
+      "ok": true,
+      "latency": 1367,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.824Z",
+      "ok": true,
+      "latency": 1027,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.668Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.973Z",
+      "ok": true,
+      "latency": 7524,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.670Z",
+      "ok": true,
+      "latency": 3174,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.704Z",
+      "ok": true,
+      "latency": 3184,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.481Z",
+      "ok": true,
+      "latency": 2618,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.219Z",
+      "ok": true,
+      "latency": 2477,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.708Z",
+      "ok": true,
+      "latency": 2717,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.080Z",
+      "ok": true,
+      "latency": 2194,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.492Z",
+      "ok": true,
+      "latency": 2616,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.174Z",
+      "ok": true,
+      "latency": 2273,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.680Z",
+      "ok": true,
+      "latency": 2811,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.518Z",
+      "ok": true,
+      "latency": 2700,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.850Z",
+      "ok": true,
+      "latency": 1186,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.336Z",
+      "ok": true,
+      "latency": 1037,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.558Z",
+      "ok": true,
+      "latency": 246,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.865Z",
+      "ok": true,
+      "latency": 1360,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.299Z",
+      "ok": true,
+      "latency": 1005,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/deepseek-ai/deepseek-v3.1-terminus": [
+    {
+      "time": "2026-04-28T23:36:40.771Z",
+      "ok": true,
+      "latency": 1120,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.035Z",
+      "ok": true,
+      "latency": 1378,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.846Z",
+      "ok": true,
+      "latency": 1050,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.668Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.101Z",
+      "ok": true,
+      "latency": 6652,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.809Z",
+      "ok": true,
+      "latency": 3313,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.549Z",
+      "ok": true,
+      "latency": 3033,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.466Z",
+      "ok": true,
+      "latency": 2605,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.370Z",
+      "ok": true,
+      "latency": 2629,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.774Z",
+      "ok": true,
+      "latency": 2784,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.546Z",
+      "ok": true,
+      "latency": 2661,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.557Z",
+      "ok": true,
+      "latency": 2682,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.726Z",
+      "ok": true,
+      "latency": 2825,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.706Z",
+      "ok": true,
+      "latency": 2838,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.485Z",
+      "ok": true,
+      "latency": 2669,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:05.115Z",
+      "ok": true,
+      "latency": 1453,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.355Z",
+      "ok": true,
+      "latency": 1057,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.557Z",
+      "ok": true,
+      "latency": 246,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.494Z",
+      "ok": true,
+      "latency": 991,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.457Z",
+      "ok": true,
+      "latency": 1165,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/z-ai/glm4.7": [
+    {
+      "time": "2026-04-28T23:36:40.799Z",
+      "ok": true,
+      "latency": 1144,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:37:22.048Z",
+      "ok": true,
+      "latency": 1389,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-28T23:38:37.815Z",
+      "ok": true,
+      "latency": 1016,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T00:07:40.668Z",
+      "ok": false,
+      "latency": null,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-04-29T15:20:02.193Z",
+      "ok": true,
+      "latency": 6741,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:50:53.637Z",
+      "ok": true,
+      "latency": 3139,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-02T14:51:02.654Z",
+      "ok": true,
+      "latency": 3132,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:07:50.487Z",
+      "ok": true,
+      "latency": 2622,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.219Z",
+      "ok": true,
+      "latency": 2474,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.857Z",
+      "ok": true,
+      "latency": 2864,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.531Z",
+      "ok": true,
+      "latency": 2640,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.538Z",
+      "ok": true,
+      "latency": 2660,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.555Z",
+      "ok": true,
+      "latency": 2652,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.716Z",
+      "ok": true,
+      "latency": 2845,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.513Z",
+      "ok": true,
+      "latency": 2693,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.669Z",
+      "ok": true,
+      "latency": 1003,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.773Z",
+      "ok": true,
+      "latency": 1472,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.608Z",
+      "ok": true,
+      "latency": 295,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.465Z",
+      "ok": true,
+      "latency": 958,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.451Z",
+      "ok": true,
+      "latency": 1154,
+      "inferenceTime": null
+    }
+  ],
+  "qwen/qwen3-30b-a3b-instruct-2507": [
+    {
+      "time": "2026-05-04T03:07:50.428Z",
+      "ok": true,
+      "latency": 2556,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.182Z",
+      "ok": true,
+      "latency": 2432,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.934Z",
+      "ok": true,
+      "latency": 2937,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.708Z",
+      "ok": true,
+      "latency": 2813,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.511Z",
+      "ok": true,
+      "latency": 2629,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.518Z",
+      "ok": true,
+      "latency": 2610,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:54.079Z",
+      "ok": true,
+      "latency": 4203,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.574Z",
+      "ok": true,
+      "latency": 2750,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.663Z",
+      "ok": true,
+      "latency": 992,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.351Z",
+      "ok": true,
+      "latency": 1046,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.561Z",
+      "ok": true,
+      "latency": 245,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.497Z",
+      "ok": true,
+      "latency": 985,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.288Z",
+      "ok": true,
+      "latency": 986,
+      "inferenceTime": null
+    }
+  ],
+  "openai/gpt-oss-20b": [
+    {
+      "time": "2026-05-04T03:07:50.456Z",
+      "ok": true,
+      "latency": 2586,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.607Z",
+      "ok": true,
+      "latency": 2858,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.721Z",
+      "ok": true,
+      "latency": 2725,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.598Z",
+      "ok": true,
+      "latency": 2703,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.544Z",
+      "ok": true,
+      "latency": 2663,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.520Z",
+      "ok": true,
+      "latency": 2613,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.708Z",
+      "ok": true,
+      "latency": 2834,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.724Z",
+      "ok": true,
+      "latency": 2901,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.624Z",
+      "ok": true,
+      "latency": 954,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.376Z",
+      "ok": true,
+      "latency": 1072,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.551Z",
+      "ok": true,
+      "latency": 236,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.521Z",
+      "ok": true,
+      "latency": 1011,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.881Z",
+      "ok": true,
+      "latency": 1580,
+      "inferenceTime": null
+    }
+  ],
+  "aimurah/claude-sonnet-4.5": [
+    {
+      "time": "2026-05-04T03:07:50.479Z",
+      "ok": true,
+      "latency": 2603,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.179Z",
+      "ok": true,
+      "latency": 2425,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.828Z",
+      "ok": true,
+      "latency": 2828,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.566Z",
+      "ok": true,
+      "latency": 2666,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.714Z",
+      "ok": true,
+      "latency": 2829,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.563Z",
+      "ok": true,
+      "latency": 2652,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.708Z",
+      "ok": true,
+      "latency": 2829,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.585Z",
+      "ok": true,
+      "latency": 2757,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.850Z",
+      "ok": true,
+      "latency": 1176,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.357Z",
+      "ok": true,
+      "latency": 1049,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.563Z",
+      "ok": true,
+      "latency": 245,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.517Z",
+      "ok": true,
+      "latency": 1002,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.248Z",
+      "ok": true,
+      "latency": 941,
+      "inferenceTime": null
+    }
+  ],
+  "aimurah/claude-haiku-4.5": [
+    {
+      "time": "2026-05-04T03:07:50.486Z",
+      "ok": true,
+      "latency": 2612,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.216Z",
+      "ok": true,
+      "latency": 2463,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:51.060Z",
+      "ok": true,
+      "latency": 3061,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.574Z",
+      "ok": true,
+      "latency": 2677,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.555Z",
+      "ok": true,
+      "latency": 2671,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.194Z",
+      "ok": true,
+      "latency": 2285,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.734Z",
+      "ok": true,
+      "latency": 2856,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.525Z",
+      "ok": true,
+      "latency": 2699,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.737Z",
+      "ok": true,
+      "latency": 1064,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.494Z",
+      "ok": true,
+      "latency": 1187,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.558Z",
+      "ok": true,
+      "latency": 241,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.491Z",
+      "ok": true,
+      "latency": 977,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.053Z",
+      "ok": true,
+      "latency": 748,
+      "inferenceTime": null
+    }
+  ],
+  "zai/glm-4.7-fp8": [
+    {
+      "time": "2026-05-04T03:07:50.503Z",
+      "ok": true,
+      "latency": 2630,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.471Z",
+      "ok": true,
+      "latency": 2720,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.859Z",
+      "ok": true,
+      "latency": 2861,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.083Z",
+      "ok": true,
+      "latency": 2187,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.555Z",
+      "ok": true,
+      "latency": 2672,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.557Z",
+      "ok": true,
+      "latency": 2649,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.862Z",
+      "ok": true,
+      "latency": 2985,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:44.020Z",
+      "ok": true,
+      "latency": 3195,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.837Z",
+      "ok": true,
+      "latency": 1165,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.348Z",
+      "ok": true,
+      "latency": 1042,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.614Z",
+      "ok": true,
+      "latency": 297,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.749Z",
+      "ok": true,
+      "latency": 1236,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.293Z",
+      "ok": true,
+      "latency": 989,
+      "inferenceTime": null
+    }
+  ],
+  "aimurah/minimax-m2.5": [
+    {
+      "time": "2026-05-04T03:07:50.509Z",
+      "ok": true,
+      "latency": 2631,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.202Z",
+      "ok": true,
+      "latency": 2445,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.832Z",
+      "ok": true,
+      "latency": 2830,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.451Z",
+      "ok": true,
+      "latency": 2544,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.542Z",
+      "ok": true,
+      "latency": 2654,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.180Z",
+      "ok": true,
+      "latency": 2267,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.710Z",
+      "ok": true,
+      "latency": 2829,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.513Z",
+      "ok": true,
+      "latency": 2681,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.675Z",
+      "ok": true,
+      "latency": 998,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.358Z",
+      "ok": true,
+      "latency": 1048,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.566Z",
+      "ok": true,
+      "latency": 247,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.691Z",
+      "ok": true,
+      "latency": 1174,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.295Z",
+      "ok": true,
+      "latency": 985,
+      "inferenceTime": null
+    }
+  ],
+  "aimurah/deepseek-3.2": [
+    {
+      "time": "2026-05-04T03:07:50.680Z",
+      "ok": true,
+      "latency": 2802,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.246Z",
+      "ok": true,
+      "latency": 2491,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.788Z",
+      "ok": true,
+      "latency": 2787,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.418Z",
+      "ok": true,
+      "latency": 2517,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.511Z",
+      "ok": true,
+      "latency": 2624,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.558Z",
+      "ok": true,
+      "latency": 2646,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.709Z",
+      "ok": true,
+      "latency": 2829,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.519Z",
+      "ok": true,
+      "latency": 2690,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.640Z",
+      "ok": true,
+      "latency": 964,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.307Z",
+      "ok": true,
+      "latency": 998,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.583Z",
+      "ok": true,
+      "latency": 264,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.504Z",
+      "ok": true,
+      "latency": 988,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.256Z",
+      "ok": true,
+      "latency": 948,
+      "inferenceTime": null
+    }
+  ],
+  "nvidia/nemotron-3-nano-30b": [
+    {
+      "time": "2026-05-04T03:07:50.701Z",
+      "ok": true,
+      "latency": 2833,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:07.266Z",
+      "ok": true,
+      "latency": 2519,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:08:50.737Z",
+      "ok": true,
+      "latency": 2742,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:09:50.696Z",
+      "ok": true,
+      "latency": 2803,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T03:10:50.542Z",
+      "ok": true,
+      "latency": 2662,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T04:45:57.546Z",
+      "ok": true,
+      "latency": 2640,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T13:03:52.707Z",
+      "ok": true,
+      "latency": 2834,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T15:34:43.509Z",
+      "ok": true,
+      "latency": 2687,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-04T16:45:04.638Z",
+      "ok": true,
+      "latency": 969,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:36.437Z",
+      "ok": true,
+      "latency": 1134,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:39.559Z",
+      "ok": true,
+      "latency": 245,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:36:50.508Z",
+      "ok": true,
+      "latency": 999,
+      "inferenceTime": null
+    },
+    {
+      "time": "2026-05-13T02:37:36.286Z",
+      "ok": true,
+      "latency": 986,
+      "inferenceTime": null
+    }
+  ]
+}
